@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>찾고싶은 스택 선택!</H1>
+        <form method="POST">
+            {% csrf_token %}
+            {% for s in stacks %}
+            <input type="checkbox" name="stack" value="{{s.id}}">{{s.title}}<br>
+            {% endfor %}
+            <input type="submit" value="검색">
+        </form>
+
+        {% if selected_stacks %}
+        <p>선택한 스택들:</p>
+        {% for stack in selected_stacks %}
+            {{ stack.title }}<br>
+        {% endfor %}
+        <hr>
+    {% endif %}
+    
+    {% if codequests.exists %}
+        <p>선택한 스택을 포함하는 프로젝트:</p>
+        {% for c in codequests %}
+            <hr>
+            순번 - {{c.number}}<br>
+            프로젝트 이름 - {{ c.title }}<br>
+            프로젝트 설명 - {{ c.explanation }}<br>
+            프로젝트 목적 - {{ c.purpose }}<br>
+            프로젝트 사용 스택 - 
+            {% for stack in c.stacks.all %}
+                {{ stack.title }},
+            {% endfor %}<br>
+            년도 - {{ c.year }}
+        {% endfor %}
+    {% endif %}
+</body>
+</html>

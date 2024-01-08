@@ -1,0 +1,129 @@
+[
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 427,
+      "title": "스마트해상물류",
+      "explanation": "자율 주행 선박 (Autonommous Ship) 및 스마트 모니터링 관제 구축",
+      "purpose": "선박 내에서 생성되는 가종 정보를 수집, 저장, 분석, 전달하고 이를 의미 있는 정보로 가공하기 위한 데이터 통합관리 및 AI 기술개발을 통해  자율운항선박의 기능 구현",
+      "stacks": [
+        1,
+        2,
+        3
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 427,
+      "title": "한이음",
+      "explanation": "카카오톡 챗봇을 활용해 스마트홈 IoT 장치(공기청정기, 조명 등)를 제어하는 시나리오를 구현",
+      "purpose": "현재 널리 활용되는 메신저인 카카오톡과 클라우드 기술로, 사용자는 별도의 IoT 제어 앱 없이 카카오톡을 통해 챗봇과 대화하며 IoT 장치를 실시간으로 제어할 수 있도록 함",
+      "stacks": [
+        1,
+        4
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 425,
+      "title": "이브와",
+      "explanation": "온라인 공연의 시작으로써 가상 공간에서의 자신의 아바타를 통해 짧은 영상을 제작할 수 있는 애플리케이션",
+      "purpose": "비대면 시기로 급성장한 메타버스와 현재 유행하고 있는 댄스 챌린지를 접목하여 동작 인식 기술을 소개하고 대중의 참여를 끌어내어 숏폼 이상의 공연에 활용",
+      "stacks": [
+        1,
+        2
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 424,
+      "title": "프로보노",
+      "explanation": "뇌졸중 환자의 상지 재활을 위한 스마트 덤벨 기반 운동량 측정 및 콘텐츠 개발",
+      "purpose": "덤벨 기반의 디바이스를 제작하고 유니티로 제작한 게임형 재활 콘텐츠와 연동하여 재활 운동을 수행함으로써 최종적으로 뇌졸중 환자의 상지 기능을 개선",
+      "stacks": [
+        1,
+        2
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 423,
+      "title": "스마트해상물류",
+      "explanation": "인공지능(영상처리) 시스템을 활용한 24시간 자동화 키(Quay)크레인 제작",
+      "purpose": "기존의 사람이 직접 조종하던 키 크레인을 자동화한 화물 수송 장비인데 비해, Raspberry Pi, Arduino 기반의 크레인과 선적 과정에 필요한 정보를 송출하는 Web Service를 함께 구현하여 완전한 자동화 시스템을 구축",
+      "stacks": [
+        1,
+        5
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 422,
+      "title": "한이음",
+      "explanation": "임베디드시스템 기반 CNC 방식 삼차원 스마트팜",
+      "purpose": "본 프로젝트는 CNC 기반의 실내 스마트팜으로, 수경재배가 지배적인 기존 스마트팜 시장에서 토양재배가 가능한 환경을 제공, 또한 Tool Mount와 인공지능 기술을 접목하여 완전 자동화와 작물 증대를 목표로 함",
+      "stacks": [
+        6,
+        2,
+        1
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 421,
+      "title": "한이음",
+      "explanation": "GOP 및 GP의 초소 RCWS 시스템",
+      "purpose": "초소에 적용하기 위한 원격 조종 총탑 RCWS를 제작하여 GP, GOP 및 해안 경비에 있어 감시성과 화력을 증가시켜 외부 세력의 침입을 억제할 수 있는 시스템 제작",
+      "stacks": [
+        7,
+        8
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 420,
+      "title": "한이음",
+      "explanation": "다양한 신체 사이즈를 대응할 수 있는 “마네킹 시스템”",
+      "purpose": "아날로그 마네킹을 대체하고 시스템화 된 마네킹을 통하여 커스텀 개발 환경을 제공",
+      "stacks": [
+        6
+      ],
+      "year": 2023
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 419,
+      "title": "이브와",
+      "explanation": "Chat GPT가 사용자가 입력한 키워드에 맞는 동화를 제작해 주며, 완성된 동화에 맞춰서 그림ai가 삽화를 자동으로 삽입해주는 참여형 동화 제작 앱",
+      "purpose": "최근 어휘력이 부족해진 아이들과 가족교육 및 유아교육의 부재가 심각해졌기때문에 유아교육의 근간인 동화창작을 동하여 이를 해결",
+      "stacks": [
+        9,
+        10
+      ],
+      "year": 2023
+    }
+  }
+]
