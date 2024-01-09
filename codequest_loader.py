@@ -14,7 +14,7 @@ for codequest in codequests:
 
     if codequest['stacks']:
         # 리스트로 변환 
-        stacks=[stack.strip() for stack in codequest['stacks'].split(',')]
+        stacks=eval(codequest['stacks'])
         print(stack_list)
         # 둘 사이를 연결할 때 리스트의 이름값이면 안됨 -> id값이어야 한다 
         stack_int_list=[]
