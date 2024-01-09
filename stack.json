@@ -1,5 +1,11 @@
 [
     "Python", "C++", "SQL", "JavaScript", "Flask", "C", "C#", "Kotlin", "Java", "HTML", "PHP", "MATLAB", "CSS", "TypeScript", "Dart",
-    "xml", "jsp", "MySQL", "Spring Boot", "Unreal", "React Native", "MariaDB", "Node.js", "jQuery", "opencv", "slam", "tts", 
-    "TensorFlow", "aws", "라즈베리파이", "unity", "키넥트", "iot", "stt","ros","","Pytorch","Linux","Arduino","docker"
+    "xml", "jsp", "React", "Spring Boot", "Unreal", "React Native", "MariaDB", "Node.js", "jQuery", "opencv", "slam", "tts", 
+    "TensorFlow", "aws", "라즈베리파이", "Unity", "키넥트", "iot", "stt","ROS","","Pytorch","Linux","Arduino","Docker","MIT App Inventor 2","Drag&Drop","CLIP STUDIO PAINT","SQLite",
+    "express","머신 러닝","OrCAD","Papago API","Qt Designer","Google Vision API","ApacheTomcat","editor(vim, nano, gedit)","MongoDB","Moviepy","PIL",
+    "MS Azure(Face API)","Django","DRL","php","XP buider","XG 5000","Google Cloud","ROS2 foxy","Dialogflow","Yolov5","Serial 통신","Redis","xShell","MediaPipe","Maya","Blender",
+    "PowerShell","Bash","google Colab","Vim","PWA","LAN card","PC LAN","Linux Terminal","Nvidia Jetpack SDK","MobaXterm","VNC viewer","Putty","Anaconda","Mongoose","Google cloud platform",
+    "Mixamo","ejs","Oculus Runtime","Blender","N.CAD","Lua","PyTorch","Block Coding","Jetson Nano","Firebase","Chart.js","Numpy","Pandas","Keras","nano","Android SDK",
+    "AR","Flutter","Spring","뉴클레오","plc 래더도","로보틱 핸드"
+
 ]

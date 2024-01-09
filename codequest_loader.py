@@ -11,24 +11,26 @@ with open("codequest/codequest.json","r", encoding='utf-8') as f:
 new_list=[]
 for codequest in codequests:
     new_data={'model':'filter.codequest'}
-
+  
     if codequest['stacks']:
         # 리스트로 변환 
         stacks=eval(codequest['stacks'])
-        print(stack_list)
         # 둘 사이를 연결할 때 리스트의 이름값이면 안됨 -> id값이어야 한다 
         stack_int_list=[]
         for stack in stacks:
             # 스택에 해당하는 인덱스 값을 찾음 
-            stack_int=stack_list.index(stack)+1
-            stack_int_list.append(stack_int)
+            try:
+                stack_int=stack_list.index(stack)+1
+                stack_int_list.append(stack_int)
+            except:
+                print("============")
+                print(stack)
         codequest['stacks']=stack_int_list
     else:
         codequest['stacks']=[]
     new_data['fields']=codequest
     new_list.append(new_data)
 
-print(new_list)
 
 with open('codequest/codequest.json','w',encoding='UTF-8') as f:
     json.dump(new_list, f, ensure_ascii=False, indent=2)

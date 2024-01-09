@@ -2,7 +2,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 427,
+      "number": 260,
       "title": "스마트해상물류",
       "explanation": "자율 주행 선박 (Autonommous Ship) 및 스마트 모니터링 관제 구축",
       "purpose": "선박 내에서 생성되는 가종 정보를 수집, 저장, 분석, 전달하고 이를 의미 있는 정보로 가공하기 위한 데이터 통합관리 및 AI 기술개발을 통해  자율운항선박의 기능 구현",
@@ -17,7 +17,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 427,
+      "number": 259,
       "title": "한이음",
       "explanation": "카카오톡 챗봇을 활용해 스마트홈 IoT 장치(공기청정기, 조명 등)를 제어하는 시나리오를 구현",
       "purpose": "현재 널리 활용되는 메신저인 카카오톡과 클라우드 기술로, 사용자는 별도의 IoT 제어 앱 없이 카카오톡을 통해 챗봇과 대화하며 IoT 장치를 실시간으로 제어할 수 있도록 함",
@@ -31,7 +31,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 425,
+      "number": 258,
       "title": "이브와",
       "explanation": "온라인 공연의 시작으로써 가상 공간에서의 자신의 아바타를 통해 짧은 영상을 제작할 수 있는 애플리케이션",
       "purpose": "비대면 시기로 급성장한 메타버스와 현재 유행하고 있는 댄스 챌린지를 접목하여 동작 인식 기술을 소개하고 대중의 참여를 끌어내어 숏폼 이상의 공연에 활용",
@@ -45,7 +45,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 424,
+      "number": 257,
       "title": "프로보노",
       "explanation": "뇌졸중 환자의 상지 재활을 위한 스마트 덤벨 기반 운동량 측정 및 콘텐츠 개발",
       "purpose": "덤벨 기반의 디바이스를 제작하고 유니티로 제작한 게임형 재활 콘텐츠와 연동하여 재활 운동을 수행함으로써 최종적으로 뇌졸중 환자의 상지 기능을 개선",
@@ -59,7 +59,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 423,
+      "number": 256,
       "title": "스마트해상물류",
       "explanation": "인공지능(영상처리) 시스템을 활용한 24시간 자동화 키(Quay)크레인 제작",
       "purpose": "기존의 사람이 직접 조종하던 키 크레인을 자동화한 화물 수송 장비인데 비해, Raspberry Pi, Arduino 기반의 크레인과 선적 과정에 필요한 정보를 송출하는 Web Service를 함께 구현하여 완전한 자동화 시스템을 구축",
@@ -73,7 +73,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 422,
+      "number": 255,
       "title": "한이음",
       "explanation": "임베디드시스템 기반 CNC 방식 삼차원 스마트팜",
       "purpose": "본 프로젝트는 CNC 기반의 실내 스마트팜으로, 수경재배가 지배적인 기존 스마트팜 시장에서 토양재배가 가능한 환경을 제공, 또한 Tool Mount와 인공지능 기술을 접목하여 완전 자동화와 작물 증대를 목표로 함",
@@ -88,7 +88,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 421,
+      "number": 254,
       "title": "한이음",
       "explanation": "GOP 및 GP의 초소 RCWS 시스템",
       "purpose": "초소에 적용하기 위한 원격 조종 총탑 RCWS를 제작하여 GP, GOP 및 해안 경비에 있어 감시성과 화력을 증가시켜 외부 세력의 침입을 억제할 수 있는 시스템 제작",
@@ -102,7 +102,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 420,
+      "number": 253,
       "title": "한이음",
       "explanation": "다양한 신체 사이즈를 대응할 수 있는 “마네킹 시스템”",
       "purpose": "아날로그 마네킹을 대체하고 시스템화 된 마네킹을 통하여 커스텀 개발 환경을 제공",
@@ -115,7 +115,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 419,
+      "number": 252,
       "title": "이브와",
       "explanation": "Chat GPT가 사용자가 입력한 키워드에 맞는 동화를 제작해 주며, 완성된 동화에 맞춰서 그림ai가 삽화를 자동으로 삽입해주는 참여형 동화 제작 앱",
       "purpose": "최근 어휘력이 부족해진 아이들과 가족교육 및 유아교육의 부재가 심각해졌기때문에 유아교육의 근간인 동화창작을 동하여 이를 해결",
@@ -129,16 +129,16 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 418,
+      "number": 251,
       "title": "이브와",
       "explanation": "머신러닝 알고리즘을 활용한 글귀 쓰기 습관 형성 서비스",
       "purpose": "사용자가 직접 쓴 글씨 이미지로부터 자체 훈련한 특성 분석 모델로 특성 예측 결과를 제시해 사용자의 흥미를 유발하고 습관 형성을 유도",
       "stacks": [
         1,
         10,
-        11,
+        59,
         9,
-        18
+        3
       ],
       "year": 2023
     }
@@ -146,7 +146,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 417,
+      "number": 250,
       "title": "프로보노",
       "explanation": "저작운동 측정과 모니터링을 통한 사용자 식습관 개선 웰니스(wellness) 웨어러블 디바이스 IOT",
       "purpose": "저작(씹는)운동 측정 및 모니터링할 수 있는 웨어러블 IOT 연동 앱을 통해 발달지연, 장애 아동들의 기초적 섭식행동을 측정 및 개선",
@@ -154,7 +154,7 @@
         8,
         9,
         19,
-        18
+        3
       ],
       "year": 2023
     }
@@ -162,7 +162,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 416,
+      "number": 249,
       "title": "프로보노",
       "explanation": "AI 스마트 구급함 아리",
       "purpose": "AI 스마트 구급함은 시각장애인이 보호자나 장애인 활동 지원사의 도움없이 스스로 의약품을 복용 및 처치",
@@ -175,7 +175,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 415,
+      "number": 248,
       "title": "스마트해상물류",
       "explanation": "자가 발전을 통한 테트라포드 추락사고 감지 및 해양 데이터 수집용 스마트 부이",
       "purpose": "“테트라부이(자가 발전을 통한 테트라포드 추락사고 감지 및 데이터 수집용 스마트부이)와 테트라인(테트라부이와 연동하여 방파제로의 출입을 경고 및 통제하는 안전 시스템)”을 개발하여, 해양/항만에서의 안전을 도모하고자 함",
@@ -191,7 +191,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 414,
+      "number": 247,
       "title": "한이음",
       "explanation": "VR 별자리 관측 모드를 활용한 별자리 속 신화 스토리 게임",
       "purpose": "별자리에 담겨 있는 신화 이야기를 가상현실에 구현하고 주인공이 되어 직접 체험하는 게임을 개발하여 어린아이들의 흥미유발",
@@ -204,7 +204,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 413,
+      "number": 246,
       "title": "한이음",
       "explanation": "다중 로봇 자율 주행 주차 시스템",
       "purpose": "주차장 내부를 새로 건설하거나 바꿀 필요없이 다중 자율형 로봇을 활용하여 주차의 자동화를 이루는 것",
@@ -218,7 +218,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 412,
+      "number": 245,
       "title": "한이음",
       "explanation": "아이트래커를 활용한 ADHD 아동의 집중도 향상 및 검진 기능성 게임",
       "purpose": "아이트래킹을 활용하여 다양한 멸종 위기 동물들을 구조하는 게다양한 멸종위기 동물들을 가상공간 내에서 상호작용 할 수 있으며 거동이 불편한 장애인, 환자도 간적접으로 동물원을 경험",
@@ -232,7 +232,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 411,
+      "number": 244,
       "title": "한이음",
       "explanation": "AI Vision을 이용한 폐 질환(폐렴, 결핵) 추정 시스템 구축",
       "purpose": "전문의가 붖ㄱ한 상황에서 AI Vision 기술을 활용해 폐렴과 같은 폐질환을 진단하고 응급정도와 환자의 진단 정보를 파악",
@@ -248,14 +248,14 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 410,
+      "number": 243,
       "title": "한이음",
       "explanation": "아마추어를 위한 딥러닝 드럼 가이드",
       "purpose": "사용자가 악기 위의 노드를 보며 간편하게 연주할 수 있도록 시각적인 도움을 주는 드럼 연주 가이드",
       "stacks": [
         1,
         8,
-        18
+        3
       ],
       "year": 2023
     }
@@ -263,7 +263,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 409,
+      "number": 242,
       "title": "한이음",
       "explanation": "무한궤도형과 차륜형 바퀴 각각의 장점을 가진 험지 극복 바퀴 가변 로봇",
       "purpose": "무한궤도형과 차륜형 바퀴 각각의 장점을 극대화하여 만든 가변바퀴로, 수월하게 험지를 극복하고 신속하게 평지를 주행할 수 있는 로봇을 제작",
@@ -277,7 +277,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 408,
+      "number": 241,
       "title": "한이음",
       "explanation": "빠른 점자 번역과 교정을 지원하는 AI 점자 영한 번역기",
       "purpose": "전문 점역 및 교정사의 작업을 자동화하여 정확하고 빠른 점자 번역과 교정을 지원하고, 한글 및 영어 문장을 음성 파일로 생성하고, 문서 요약 기능을 제공하여 시각장애인들의 학습 가이드역할",
@@ -292,7 +292,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 407,
+      "number": 240,
       "title": "한이음",
       "explanation": "델타로봇을 활용한 인간 상호 협동모바일로봇",
       "purpose": "인간과 협력하여 중량물 운반 작업을 수행하는 로봇을 개발하여  기존 협동 로봇 대비 저렴한 협동 로봇 플랫폼 개발을 목표",
@@ -306,7 +306,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 406,
+      "number": 239,
       "title": "한이음",
       "explanation": "디러닝 기반의 자율주행을 하는 캐디 로봇",
       "purpose": "골프백을 탑재하고 골프공의 위치를 추정해 안내주행을 수행하는 로봇개발하여 인력이 부족한 골프캐디 역할을 수행",
@@ -321,7 +321,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 405,
+      "number": 238,
       "title": "한이음",
       "explanation": "인공지능 유아학습용 이미지생성도구 개발",
       "purpose": "아이들이 입력하는 문장을 기반으로 이미지를 생성해 한 편의 동화책을 만들 수 있는 서비스로 아직까지는 표현에 한계가 있는 아이들을 대상으로, 상상력을 무한히 펼칠 수 있는 공간을 제공",
@@ -335,7 +335,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 404,
+      "number": 237,
       "title": "이브와",
       "explanation": "전기 자동차 충전 시 화재 방지를 위한 스마트 감지 시스템",
       "purpose": "전기 자동차 충전 시 발생할 수 있는 화재를 예방하고 탐지하는 화재 감지기를 개발함으로써 잠재적인 화재 위험을 조기에 감지하여 전기 자동차 화재 예방 및 대처할 수 있는 시스템을 구현",
@@ -346,7 +346,7 @@
         9,
         3,
         6,
-        11
+        59
       ],
       "year": 2023
     }
@@ -354,7 +354,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 403,
+      "number": 236,
       "title": "이브와",
       "explanation": "불규칙 노면 추종 주행 로봇",
       "purpose": "수동형 링크 구조인 로커-보기(Rockerbogie) 메커니즘를 적용한 추종 로봇을 개발하여 계단이나 울퉁불퉁한 지형을 만나면 이동이 어렵다는 문제를 해결",
@@ -367,7 +367,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 402,
+      "number": 235,
       "title": "이브와",
       "explanation": "AI 비전을 적용한 멀티 홈 디바이스 제어",
       "purpose": "디지털 소외 계층이 다양한 홈 디바이스를 쉽게 사용할 수 있도록 직관적인 인터페이스의 컨트롤러를 제작하여 사용자의 시선 방향을 추적하여 해당 방향의 디바이스를 자동으로 선택하는 알고리즘을 적용하여 간단한 스마트홈 시스템 구현",
@@ -380,7 +380,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 401,
+      "number": 234,
       "title": "프로보노",
       "explanation": "이동형 검사장치의 선원과 카세트의 각도 및 SID 확인 시스템",
       "purpose": "정밀한 x선 검사를 유도하기 위해 시스템을 개발하여 실제 x선검사시 검사자의 육안적인 감각에 의존하여 검사하고 있는 문제점을 해결",
@@ -393,13 +393,13 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 400,
+      "number": 233,
       "title": "프로보노",
       "explanation": "지체장애인 이동권 보장을 위해 생체신호로 조작하는 지능형 전동휠체어",
       "purpose": "기존 조이스틱방식으로는 전동휠체어를 사용할수 없는 중증지체장애인들이 얼굴 근육, 눈동자의 움직임을 통한 생체신호를 이용하여 전동휠체어를 제어할수 있는 시스템을 개발",
       "stacks": [
         1,
-        18
+        3
       ],
       "year": 2023
     }
@@ -407,7 +407,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 399,
+      "number": 232,
       "title": "프로보노",
       "explanation": "시각장애인의 건강 영양사 과채류 수확 로봇",
       "purpose": "시각장애인에게 영양을 고려한 식단을 제공하는 과채류 수확 및 배달 로봇은 자동으로 영양가 있는 과채를 수확하고 앱을 통해 사용자에게 수확 내역 및 섭취량 정보를 제공하여 시각장애인의 건강 향상과 장애인 돌봄 인력 부담을 줄임",
@@ -424,7 +424,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 398,
+      "number": 231,
       "title": "스마트해상물류",
       "explanation": "항만 용접 작업자의 안전을 지켜주는 스마트 용접 헬멧",
       "purpose": "항만 현장에서 작업 중 발생하는 화재사고를 예방하고 작업자의 안전을 보장하기 위한 헬멧 시스템",
@@ -438,7 +438,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 397,
+      "number": 230,
       "title": "스마트해상물류",
       "explanation": "인공지능 ANC를 이용한 선박소음 감소",
       "purpose": "선실 내 소음으로 인한 선원들의 스트레스 감소를 위해 설계하고, ANC(Active Noise Cancellation) 및 AI 기술을 결합하여 구현한 ANC 스피커",
@@ -451,7 +451,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 396,
+      "number": 229,
       "title": "스마트해상물류",
       "explanation": "AI 기반 자율주행 지게차",
       "purpose": "자율로 이동하며 복잡하고 많아진 화물량을 적재하여 운반함과 동시에 리프트의 승강작용을 이용하여 적재 또는 하역 작업에 사용하는 자율주행 지게차를 개발하여 사람의 조작에 의한 인적오류나 사고를 감조",
@@ -464,7 +464,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 395,
+      "number": 228,
       "title": "스마트해상물류",
       "explanation": "항만건설 현장 안전 지킴이",
       "purpose": "공사장 내 장애물 회피를 하며 임의 주행하며 근로자의 안전모, 방진마스크, 안전조끼와 같은 안전장비의 착용 유무를 판단하고 미착용이라 판단 시 경고음을 울려 인력과 시간을 절약",
@@ -478,7 +478,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 394,
+      "number": 227,
       "title": "한이음",
       "explanation": "실내 장애물 환경에서 의미론적 지도 작성과 장기적 자율주행이 가능한 로봇 시스템",
       "purpose": "실내 장애물 환경에서 의미론적 지도 작성과 장기적 자율주행이 가능한 로봇 시스템을 구축하여 장애물이 많은 환경에서도 높은 효율과 안정성을 가진 서비스 로봇을 실현",
@@ -492,7 +492,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 393,
+      "number": 226,
       "title": "한이음",
       "explanation": "수중협소구역 환경 탐사를 위한 가변 무인 탐사정",
       "purpose": "수중 협소 구역에서 생존자를 구조하기 위한 가변 무인 잠수정을 개발하여 생존자 구조에 기여하고 골든타임을 줄일 수 있음",
@@ -506,7 +506,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 392,
+      "number": 225,
       "title": "한이음",
       "explanation": "자율주행 배액 수거 로봇",
       "purpose": "고령 인구 증가와 신생아 수 감소에 따른 고령화 사회로의 진입에 따른 거동 제한 고령 요양자와 환자 수의 증가, 의료/간병 인력 감소 현상을 해결하기 위한 자율주행 배액 수거 로봇",
@@ -521,18 +521,20 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 391,
+      "number": 224,
       "title": "한이음",
       "explanation": "대형병원 내 입원환자 케어를 위한 지능형 자율주행 로봇",
       "purpose": "지능형 자율주행 로봇. Lidar, Depth Camera, 초음파 센서 등을 통해 장애물을 인식하고 SLAM을 수행해 자율주행이 가능한 로봇으로 대형병원 내 입원환자 케어",
-      "stacks": [],
+      "stacks": [
+        36
+      ],
       "year": 2023
     }
   },
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 390,
+      "number": 223,
       "title": "한이음",
       "explanation": "경유지 알고리즘을 활용한 LiDAR 기반 자율주행 물류 배송 로봇",
       "purpose": "LiDAR를 기반으로 최적 경로를 생성하고, 메카넘 휠을 활용하여 전 방향 주행이 가능한 자율주행 물류 배송 로봇 개발하여 배송시간, 비용 절감",
@@ -548,7 +550,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 389,
+      "number": 222,
       "title": "한이음",
       "explanation": "동작 인식 로봇 팔(Motion Recognized Robot Arm)",
       "purpose": "사람의 팔 동작을 그대로 인식 및 동작 하고 로봇 팔의 동작은 어깨관절부터 손가락 관절까지 구현하여 휴머노이드제작에 활용",
@@ -561,14 +563,14 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 388,
+      "number": 221,
       "title": "한이음",
       "explanation": "유기견 방지를 위한 입양 자격 검증 및 브리더 매칭 서비스",
       "purpose": "인증된 브리더와 분양 자격이 검증된 분양희망자를 매칭시켜 올바른 반려견 문화를 형성하여 분양 자격이 검증된 분양희망자는 인증된 브리더를 통해 건강한 반려동물을 분양받을 있도록 하여 유기 동물 개체 수를 감소",
       "stacks": [
         9,
         19,
-        18
+        3
       ],
       "year": 2023
     }
@@ -576,7 +578,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 387,
+      "number": 220,
       "title": "한이음",
       "explanation": "서적 대출과 운반이 가능한 도서관 자동화 로봇",
       "purpose": "도서관 자동화를 위한 프로젝트로 도서관 이용자가 책을 찾지 않고, 대출하려는 책을 PC에 입력만 한다면 자율주행으로 책이 있는 서가로 이동, 로봇팔로 책을 집고 기존 위치로 복귀하여 자동으로 대출과 운반이 가능한 로봇을 제작",
@@ -591,7 +593,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 386,
+      "number": 219,
       "title": "한이음",
       "explanation": "블록체인, NFT을 이용한 반려동물 개체인식 앱 만들기",
       "purpose": "카메라 기반 이미지 인식을 활용하여 반려동물 등록을 혁신하고  블록체인 기술의 통합을 통해 사용자는 반려동물을 편리하게 관리하고 신체 세부 정보를 포함한 종합적인 정보에 접근",
@@ -606,7 +608,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 385,
+      "number": 218,
       "title": "한이음",
       "explanation": "AR을 기반으로 제작하는 인테리어 추천 Mobile App",
       "purpose": "사용자가 찍은 사진을 분석하여 장소 식별 후, 성향 분석에 기반한 가구 추천, AR 기술로 해당 가구 배치해보는 서비스",
@@ -621,7 +623,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 384,
+      "number": 217,
       "title": "한이음",
       "explanation": "VR 기반 비상상황 좌석 승객 의무 교육훈련 실감콘텐츠 개발",
       "purpose": "VR 환경 속에서 승객들이 항공기 내 실제 비상상황에 대비해 행동할 수 있도록 개발된 실감형 교육 콘텐츠를 제공하여 비상상황 발생시 안전하게 대처할 수 있도록 유도",
@@ -634,7 +636,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 383,
+      "number": 216,
       "title": "한이음",
       "explanation": "계단 이동 보조 자율주행 승강 시스템",
       "purpose": "사용자의 탑승이 감지되면 자율적으로 계단을 인식하여 계단을 오르내리는 장비를 제작하여 거동이 불편한 시민들의 편의를 보장",
@@ -651,7 +653,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 382,
+      "number": 215,
       "title": "한이음",
       "explanation": "의류 실측을 통한 중고 거래 앱",
       "purpose": "안드로이드 카메라를 활용하여 의류 사이즈를 알고리즘으로 측정, 측정된 데이터를 기반으로 중고거래 앱에서 활용",
@@ -664,7 +666,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 381,
+      "number": 214,
       "title": "한이음",
       "explanation": "AI를 활용한 대화형 음성인식 키오스크",
       "purpose": "기존의 터치형 키오스크와는 차별된 음성/얼굴인식 기술을 활용한 키오스크를 개발하여 고객과 상호작용할 수 있도록 하고, 지향성 마이크를 사용하여 주변 소음을 제거하여 주문하는 사람의 음성을 인식",
@@ -677,7 +679,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 380,
+      "number": 213,
       "title": "한이음",
       "explanation": "인공지능 AWS AI/ML 연계한 모바일 앱 기획 및 개발",
       "purpose": "AWS에서 제공되는 AI/ML 플랫폼을 기반으로 하여 텍스트와 ppt를 자동 변환하는 웹앱 서비스로, 실생활 및 업무에서 활용이 가능하며 별도의 사용자 조작 없이 사용 가능한 발표자료 및 대본 제작",
@@ -694,7 +696,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 379,
+      "number": 212,
       "title": "이브와",
       "explanation": "최신 AI 기술을 활용한 스마트관제탑 구축",
       "purpose": "공군 작전 수행에 피해를 주는 주 원인인 조류충돌(버드스트라이크)을 방지를 위한 조류충돌 인식/대응 AI개발하여 자동화하고 공군의 현 조류인식 체계와 연동하여 비전을 제시",
@@ -707,7 +709,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 378,
+      "number": 211,
       "title": "이브와",
       "explanation": "IOT를 이용한 산업용 AI 키오스크",
       "purpose": "음성 인식 주문 시스템과 연령대 인식을 통한 맞춤형 인터페이스를 제공하는 키오스크를 개발하여 정보 취약 계층의 키오스크 사용 장벽을 줄임",
@@ -721,7 +723,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 377,
+      "number": 210,
       "title": "이브와",
       "explanation": "Chat GPT를 활용한 인터랙티브 스토리 생성 게임",
       "purpose": "Chat GPT를 활용한 어드벤쳐형 인터렉티브 스토리 생성 게임으로 사용자와 AI NPC의 대화, NPC간의 상호작용 기능을 추가하여 사용자가 다양한 시나리오를 경험",
@@ -734,7 +736,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 376,
+      "number": 209,
       "title": "이브와",
       "explanation": "AI 안무 정확도 분석과 동작 인식을 통한 실시간 랜덤 댄스 챌린지 및 숏츠 커뮤니티 앱 서비스",
       "purpose": "Pocket Pose (PoPo) 는 춤을 즐기는 경험을 제공하는 서비스로 누구나 쉽고 재밌게 춤을 즐기는 경험을 제공",
@@ -749,7 +751,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 375,
+      "number": 208,
       "title": "이브와",
       "explanation": "학교 생활 대화 요약 및 감정 기록 AI 챗봇 서비스",
       "purpose": "학생들은 AI 챗봇과 간편하게 상담받고 그림 심리 테스트로 자신의 감정 상태를 파악하며, 선생님은 효율적으로 학생의 상담 분석 기록을 관리할 수 있는 서비스로 초·중·고등학교 상담 교실 '위(WEE) 클래스'의 이용 문제점을 해결",
@@ -766,7 +768,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 374,
+      "number": 207,
       "title": "이브와",
       "explanation": "비마커 기반 실내 측위기술을 활용한 AR도슨트",
       "purpose": "가상 콘텐츠 체험의 긍정적 효과를 이용해 박물관의 재미 요소를 증대시키기 위해, 관람객과의 상호작용을 가능하게 하는 AR 콘텐츠 개발과 물리적 제약 없이 작품 설명을 들을 수 있는 AR 도슨트 앱을 기획",
@@ -779,7 +781,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 373,
+      "number": 206,
       "title": "이브와",
       "explanation": "가스라이팅 탈피를 위한 AI 채팅 분석 서비스",
       "purpose": "현대 사회에서 일어나는 가스라이팅 문제 해결을 도와주는 서비스로, 가스라이팅의 인지 및 탈피를 지향한다. 인공지능 기술을 활용하여 채팅 내용을 분석해 가스라이팅 여부를 파악하고, 가스라이팅 패턴을 식별하여 분석 결과를 제공",
@@ -794,10 +796,10 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 372,
+      "number": 205,
       "title": "이브와",
       "explanation": "뇌졸중 환자를 위한 XR 다리 재활 게임",
-      "purpose": "뇌졸중 환자들의 반복적인 재활로 인한 흥미와 재활 동기 부재, 우울증 해결을 위해 게임적 요소(VR)를 가미하였으며, Unity Engine에서 아두이노로 데이터를 전송하여 향기를 분출할 수 있는 XR 다리 재활 프로그램을 제작",
+      "purpose": "뇌졸중 환자들의 반복적인 재활로 인한 흥미와 재활 동기 부재, 우울증 해결을 위해 게임적 요소(VR)를 가미하였으며, Unity Engine에서 Arduino로 데이터를 전송하여 향기를 분출할 수 있는 XR 다리 재활 프로그램을 제작",
       "stacks": [
         7
       ],
@@ -807,7 +809,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 371,
+      "number": 204,
       "title": "이브와",
       "explanation": "저시력 장애인을 위한 객체인식 기반 AR 보행 앱",
       "purpose": "객체 인식을 통해 장애물과 신호등의 신호를 인식하고, 음성 안내를 통해 목적지까지 안전한 경로로 안내해주어 보행하는 데 도움을 주는 앱으로 장애물을 AR 화면으로 제공하여 저시력 사용자가 쉽게 장애물을 인식",
@@ -824,7 +826,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 370,
+      "number": 203,
       "title": "프로보노",
       "explanation": "발달장애인을 위한 금전 교육용 VR 앱 개발",
       "purpose": "VR 기술을 활용해 가상 공간에서 발달장애인들이 재미있게 금전에 대해 학습을 할 수 있는 앱을 개발",
@@ -837,7 +839,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 369,
+      "number": 202,
       "title": "프로보노",
       "explanation": "공공시설 시각장애인용 키오스크",
       "purpose": "키오스크를 사용하기에 여러운 시각장애인,노약자들을 위한 음성인식 기반 열차 승차권 예매 키오스크",
@@ -850,7 +852,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 368,
+      "number": 201,
       "title": "프로보노",
       "explanation": "노인가구를 위한 반려로봇",
       "purpose": "고령화 사회의 고독사 증가, 독거노인 증가와 같은 사회문제를 해결하기 위한 반려 로봇으로 기존의 로봇보다 더 자연스럽게 움직이고 상호작용하여 외로움과 우울감을 감소",
@@ -865,7 +867,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 367,
+      "number": 200,
       "title": "프로보노",
       "explanation": "노약자를 위한 보행패턴 측정 스마트 인솔(Insole)과 퇴행성 뇌질환 조기진단 AI 분석 프로그램",
       "purpose": "보행패턴을 측정할수 있는 스마트 인솔과 측정된 보행패턴을 분석하고 퇴행성 뇌질환을 조기진단하는 AI 분석프로그램을 개발하여 퇴행성 뇌질환 위험군에 속한 노약자의 의료비용감축 건강,수명 증대등의 긍정적 효과를 기대할 수 있는 헬스케어 디바이스",
@@ -879,7 +881,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 366,
+      "number": 199,
       "title": "프로보노",
       "explanation": "농작물 수확을 위한 자동 위치 이동 시스템과 이를 보관 이송할 수 있는 농업용 수확 기구",
       "purpose": "농작물 수확에 특화된 좌/우로 이동하거나 야외에서 자체적으로  이동하는 보조기구로 고령화 사회에서 농업의 일손을 줄임",
@@ -892,7 +894,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 365,
+      "number": 198,
       "title": "프로보노",
       "explanation": "요양원을 위한 돌봄 로봇과 웹 관제 소프트웨어",
       "purpose": "요양보호사의 단순 작업을 로봇에게 수행시킴으로서 요양보호사의 업무강도를 낮추고 전문적인 일에 집중 할 수 있는 환경을 만들어 요양보호사 서비스의 질적 향상",
@@ -905,12 +907,12 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 364,
+      "number": 197,
       "title": "프로보노",
       "explanation": "와병 환자를 위한 생체신호 기반 호출 간병 보조 로봇",
       "purpose": "와병환자의 생체신호, 뇌파와 근전도를 이용하여 환자의 감정 변화와 목의 움직임 만으로 직접 서비스를 선택하는 시템과 간병 서비스를 제공하는 로봇",
       "stacks": [
-        37,
+        93,
         1,
         2
       ],
@@ -920,7 +922,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 363,
+      "number": 196,
       "title": "프로보노",
       "explanation": "시각장애인을 위한 상비약 인식 제어장치의 설계",
       "purpose": "상비약의 미비한 점자 시스템으로 인한 의약품 오용 문제점을 해결하기 위해 해당 '디바이스'를 고안했으며, 상비약의 바코드를 스캔한 후 상비약의 상호 명을 점자로 출력하고 약품 설명을 음성으로 출력하여 시각장애인들께 올바른정보를 제공",
@@ -934,7 +936,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 362,
+      "number": 195,
       "title": "프로보노",
       "explanation": "뇌파를 활용한 휠체어 제어",
       "purpose": "뇌파를 활용한 휠체어란 사용자의 뇌파를 가지고 사용자가 원하는 방향으로 이동할 수 있도록 도와주고 안전을 위해 모니터링하는 시스템",
@@ -949,7 +951,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 361,
+      "number": 194,
       "title": "프로보노",
       "explanation": "센서를 활용한 고령 보행자 횡단보도 사고 예방 시스템",
       "purpose": "이미지 센싱 기술, 텐서플로우 그리고 OpenCV의 결합으로 교통 약자를 정확하게 인식하여 도로 안전을 향상",
@@ -962,7 +964,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 360,
+      "number": 193,
       "title": "프로보노",
       "explanation": "시각장애인의 안전한 이동을 도와주는 지능형 카트",
       "purpose": "시각장애인이 원하는 목적지로 안전한 이동을 도와주며 물품 구매에 도움을 주고 짐도 담을 수 있는 지능형 카트를 개발",
@@ -971,7 +973,7 @@
         1,
         9,
         16,
-        11
+        59
       ],
       "year": 2023
     }
@@ -979,7 +981,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 359,
+      "number": 192,
       "title": "프로보노",
       "explanation": "신경근육질환 환자를 위한 전동킥보드 안전 환경 시스템",
       "purpose": "기존 전동킥보드 시스템 문제를 해결하고 신경근육질환 환자의 이동권을 보장하는 전동킥보드 안전 환경 시스템",
@@ -995,7 +997,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 358,
+      "number": 191,
       "title": "프로보노",
       "explanation": "장애인 주차구역과 거주자 우선 주차구역 문제 해결을 위한 스마트 주차라인",
       "purpose": "요즈음 사회적 문제로 대두되고 있는 주차 문제를 해결하기 위한 스마트 주차라인 개발 아이디어로 사회적 문제로 대두되고 있는 장애 인구 증가 및 장애인 인권 문제에 따른 장애인을 위한 추가적인 기능을 탑재",
@@ -1009,7 +1011,1230 @@
   {
     "model": "filter.codequest",
     "fields": {
+      "number": 190,
+      "title": "스마트해상물류",
+      "explanation": "IoT 웨어러블 센서 기반의 해상물류 작업자 스마트 안전조끼",
+      "purpose": "항만물류에서의 위험을 예방하고 안전한 작업 보장",
+      "stacks": [
+        41,
+        2,
+        42
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
       "number": 189,
+      "title": "한이음",
+      "explanation": "인터랙티브 미디어의 ‘상호작용성’을 융합한 게임 제작",
+      "purpose": "기존의 사용처에 차별화된 제품을 제공할 뿐만 아니라 새로운 사용처를 개척",
+      "stacks": [
+        31,
+        25,
+        43,
+        7,
+        1
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 188,
+      "title": "이브와",
+      "explanation": "인공지능의 쉽고 빠른 활용을 위한 AI 빌더",
+      "purpose": "쉽게 인공지능 모델을 쉽게 만들어서 적용할 수 있는 도구의 필요성 증대 드래그 앤 드롭으로 인공지능 모델을 쉽게 제작하고 실제 적용",
+      "stacks": [
+        1
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 187,
+      "title": "프로보노",
+      "explanation": "퇴행성 뇌질환 환자를 위한 손가락 훈련 시스템 \"스마트 핀치 글러브",
+      "purpose": "기존의 손 재활 훈련의 단점을 보완하고 사용자의 흥미를 유발시킬 수 있는 기능성 시스템",
+      "stacks": [
+        7,
+        3,
+        1,
+        44,
+        31,
+        6
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 186,
+      "title": "스마트해상물류",
+      "explanation": "컨테이너 선적 시스템 자동화, 자율주행 물류 로봇차량 개발",
+      "purpose": "컨테이너를 나르기만 하는 단순 이송 장비가 아닌 자가 하역까지 가능한 완전한 무인 이송 장비",
+      "stacks": [
+        23,
+        45,
+        1,
+        10,
+        13,
+        4,
+        6,
+        25,
+        30,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 185,
+      "title": "한이음",
+      "explanation": "지능형 폭 가변 로봇",
+      "purpose": "차체 프레임의 구조를 이용한 폭 가변형 로봇으로 라이다 및 카메라를 이용하여 협소 공간 발견 시,?자동으로 차체의 폭을 조절 및 로봇이 협소공간을 통과할 수 있도록 제어",
+      "stacks": [
+        6,
+        2,
+        30,
+        106
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 184,
+      "title": "한이음",
+      "explanation": "Smart Industrial Robot Mobility System",
+      "purpose": "공정 내부 시스템 구조를 축소화 시킨 작품들로 각 공정별로 발생하는 문제점을 해결",
+      "stacks": [
+        39,
+        30,
+        1,
+        6,
+        2
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 183,
+      "title": "한이음",
+      "explanation": "스마트 피팅 더미",
+      "purpose": "모델에게 직접 옷을 입혀보지 않고도 핏과 사이즈를 확인하여 의상을 개발할 수 있는 스마트 로봇",
+      "stacks": [
+        39,
+        2,
+        9
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 182,
+      "title": "이브와",
+      "explanation": "메타버스 속 실시간 비대면 공연",
+      "purpose": "덕성여자대학교 가성현실 세계 안에서 실제 학교에서 생활하는 것처럼 학교의 구조를 익힐 수 있고,?비대면 공연과?OT?비대면 행사에 참여하여 즐길 수 있는 ‘덕타버스(DukTaverse)’를 개발",
+      "stacks": [
+        31,
+        7
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 181,
+      "title": "이브와",
+      "explanation": "AR 글래스를 활용한 수어 통역 어플리케이션 '목(目)요일'",
+      "purpose": "청각장애인들의 편리함을 위한 음성을 수어로 통역해주는 서비스",
+      "stacks": [
+        71,
+        31,
+        23,
+        7,
+        10,
+        13,
+        4,
+        103
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 180,
+      "title": "프로보노",
+      "explanation": "노약자 및 거동 불편 환자를 위한 스마트 전동 휠체어",
+      "purpose": "전동휠체어가 떨어져 있거나 앉고 일어설 때의 불편함 존재하고 인지능력이 떨어지는 노약자의 전동휠체어 사고 다수 발생.",
+      "stacks": [
+        39,
+        6,
+        2
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 179,
+      "title": "프로보노",
+      "explanation": "시각장애인의 문맹률을 낮추기 위한 스마트 점자 학습 보드",
+      "purpose": "점자교육을 위한 인프라와 콘텐츠가 부족함을 극복하여 시각장애인이 쉽게 점자를 배울 수 있도록 지원하는 학습기기",
+      "stacks": [
+        30,
+        1,
+        9,
+        16,
+        102,
+        101,
+        75
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 178,
+      "title": "스마트해상물류",
+      "explanation": "영상 기반 항만근로자 안전 모니터링 시스템",
+      "purpose": "항만과 항만 근로자의 안전을 지키기 위한 CCTV 영상 분석 AI를 개발/적용하여 안전한 작업 환경을 확보하고 산업재해를 줄이는 데 기여할 수 있도록 함",
+      "stacks": [
+        1,
+        4,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 177,
+      "title": "한이음",
+      "explanation": "AI를 이용한 신호등 제어 시스템",
+      "purpose": "신호등 제어 체계를 AI 기술과 접목하여 교통체증 문제를 해결",
+      "stacks": [
+        1,
+        7,
+        30,
+        31
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 176,
+      "title": "한이음",
+      "explanation": "모듈화를 통한 유니버셜 모바일 로봇 플랫폼",
+      "purpose": "기존의 모바일 로봇이 수행하는 기능들을 하드웨어적으로 모듈화하여, 하나의 모바일 로봇 플랫폼에 사용자의 필요에 따라 모듈을 교체, 장착 하며 다양하게 활용할 수 있는 모듈 장착형 모바일 로봇",
+      "stacks": [
+        35,
+        2,
+        1,
+        66
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 175,
+      "title": "한이음",
+      "explanation": "인공지능 기반 실내 모니터링을 통한 환경 정화 자율주행 로봇",
+      "purpose": "오염도 예측을 하여 효율적인 정화를 진행하는 똑똑한 로봇",
+      "stacks": [
+        28,
+        100,
+        99,
+        98,
+        8,
+        1,
+        10,
+        13,
+        4,
+        97,
+        30,
+        35,
+        2,
+        16
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 174,
+      "title": "한이음",
+      "explanation": "GPS 트래킹과 센서 퓨전을 이용한 군사용 오프로드 자율주행 철책 감시 및 폭발물 운반 로봇",
+      "purpose": "GSP 기반 야외 자율 주행 로봇으로 야간 카메라, 적외선 감지 카메라를 사용하여 철책 부근의 접근 물체를 감시",
+      "stacks": [
+        6,
+        2,
+        1,
+        16
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 173,
+      "title": "한이음",
+      "explanation": "AI기반 메신저 피싱 예측에 따른 사전 예방 서비스",
+      "purpose": "스마트폰의 메신저(문자, 카카오톡 등) 대화 내용을 사전 학습된 AI기반 피싱 예측 모델을 통해 메신저 피싱 여부를 판단하여 사용자에게 팝업 경고 등으로 알려줌",
+      "stacks": [
+        29,
+        28,
+        22,
+        5,
+        96,
+        9,
+        1
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 172,
+      "title": "한이음",
+      "explanation": "배식 및 퇴식이 가능한 자율주행 서빙로봇",
+      "purpose": "기존 서빙로봇과 달리 배식과 퇴식 기능을 추가하여 번거로움과 업무 부담을 줄인 자율주행 서빙로봇",
+      "stacks": [
+        6,
+        2,
+        1,
+        95
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 171,
+      "title": "한이음",
+      "explanation": "Window Plus(스마트 창문)",
+      "purpose": "몸이 불편한 어르신이나 장애인, 1인 가구에서 창문을 쉽게 개폐하고, 실내 환경을 쾌적하게 유지를 도와주는 작품",
+      "stacks": [
+        1,
+        94,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 170,
+      "title": "한이음",
+      "explanation": "비대면 의료 보조 서비스 로봇(Hallow bot : Hospital autonomous following bot)",
+      "purpose": "4차 산업혁명 시대의 주요기술인 인공지능이 일반인에게 가까이 다가옴으로써 도움이 많이 필요한 병원에서도 인공지능을 활용할 수 있는 로봇(할로우봇)",
+      "stacks": [
+        1,
+        2,
+        35
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 169,
+      "title": "한이음",
+      "explanation": "카페 일회용 컵 자동 분리수거 시스템",
+      "purpose": "카페에서 사용되는 일회용 컵의 분리수거가 될 수 있게 분리, 세척, 적재하는 자판기",
+      "stacks": [
+        1,
+        6
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 168,
+      "title": "한이음",
+      "explanation": "물류 시스템 자동 제어 로봇 “컨베이어 벨트 / 휠 소터” 개발",
+      "purpose": "택배의 경로설정부터 택배 경로에 따른 택배 상차 순서 분류까지 모든 부분을 지원하는 체계로서 해당 작품을 통한 효율성 증대 및 안전사고 감소까지 기대할 수 있는 작품",
+      "stacks": [
+        1,
+        2,
+        10,
+        4,
+        30,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 167,
+      "title": "이브와",
+      "explanation": "아이트래커를 이용한 PC용 3D 추리 게임",
+      "purpose": "명성이 없는 탐정이었던 주인공이 스토리를 따라 사건을 해결해가며 인지도를 높여가는 내용의 게임",
+      "stacks": [
+        7,
+        70
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 166,
+      "title": "이브와",
+      "explanation": "딥러닝 기반 패션 이미지 검색 엔진 개발",
+      "purpose": "검색하고 싶은 이미지가 없더라도 사용자 기반 디자인으로 만든 레퍼런스 이미지로 원하는 디자인의 옷을 검색 가능한 검색 엔진",
+      "stacks": [
+        1,
+        10,
+        13,
+        3,
+        57,
+        28
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 165,
+      "title": "이브와",
+      "explanation": "스마트 외출 도우미",
+      "purpose": "거리에서의 원활한 거동이 어렵고, 지하철 이용 시 입구를 찾거나 공공화장실의 위치를 찾는 데에도 어려움을 겪는 시각장애인을 위한 기술",
+      "stacks": [
+        9,
+        6
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 164,
+      "title": "프로보노",
+      "explanation": "자동 수평유지 기술을 탑재한 스마트 전동휠체어",
+      "purpose": "경사로에서 운전자들이 경사로 인해 넘어질 수 있다는 불안감을 해결",
+      "stacks": [
+        9,
+        6
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 163,
+      "title": "프로보노",
+      "explanation": "노약자 및 재활 치료자를 위한 스마트 걸음보조기 시스템 개발",
+      "purpose": "삶의 질을 높이기 위해서는 노약자 및 거동 불편자들에게 하체운동과 같은 재활치료가 되도록 하여 침대에서 벗어나 밖으로 나올 수 있기 위함",
+      "stacks": [
+        6,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 162,
+      "title": "프로보노",
+      "explanation": "난독증 아동을 위한 재택치료 솔루션",
+      "purpose": "난독증 판단검사를 지원하고 아이들의 흥미를 돋구기 위해 애니메이션 캐릭터와 동화 캐릭터를 이용한 난독증 치료 훈련을 지원",
+      "stacks": [
+        9,
+        5,
+        40,
+        1,
+        93
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 161,
+      "title": "스마트해상물류",
+      "explanation": "탁도 센서를 이용한 스마트 해양오염 모니터링",
+      "purpose": "gps센서와 탁도, 공기질센서를 이용한 해상 기름 유출 점 오염원 탐지선",
+      "stacks": [
+        39,
+        2
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 160,
+      "title": "스마트해상물류",
+      "explanation": "실내 위치 인식기술과 IoT 기술을 활용한 스마트 안전화",
+      "purpose": "안전화에 부착식 또는 인솔 형태의 IoT 웨어러블 디바이스와 이를 통해 수집된 정보를 바탕으로 작업 통합관리시스템을 제공",
+      "stacks": [
+        9,
+        8,
+        2,
+        21,
+        6
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 159,
+      "title": "스마트해상물류",
+      "explanation": "메타버스 플랫폼을 활용한 스마트항만 전자장비 유지보수 콘텐츠 개발",
+      "purpose": "최근 주목받는 메타버스 플랫폼인 로블록스를 활용하여 즉각적인 피드백이 반영되고, 작업자들이 시간과 공간의 제약 없이 더욱 현실감 있고 효과적인 교육을 받을 수 있는 환경을 제공",
+      "stacks": [
+        92,
+        91,
+        71,
+        89
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 158,
+      "title": "스마트해상물류",
+      "explanation": "탄소중립 항만 구현 위한 지능형 제로에너지 건물 관리시스템",
+      "purpose": "지속 가능한 스마트 항만 실현과 탄소중립 항만 구현을 목표로 하는 IOT 제로에너지 건축물의 항만 적용",
+      "stacks": [
+        1,
+        10,
+        13,
+        4,
+        23,
+        30,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 157,
+      "title": "한이음",
+      "explanation": "지능형 군사 탐사 로봇",
+      "purpose": "자율주행을 기반으로 험지를 극복하며, 수류탄과 같은 위험한 물건을 수거하여 운반할 수 있는 지능형 군사용 무인 탐사 로봇",
+      "stacks": [
+        6,
+        1,
+        9
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 156,
+      "title": "한이음",
+      "explanation": "AI 휴먼을 활용한 대화형 주문 키오스크 시스템",
+      "purpose": "터치스크린 접촉을 배제하고, 디지털 소외 현상을 예방하기 위해 휴먼 AI를 이용한 음성 인식 주문 결제 키오스크를 만드는 것을 목표",
+      "stacks": [
+        10,
+        13,
+        88,
+        87,
+        31,
+        86,
+        18,
+        23,
+        85,
+        53
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 155,
+      "title": "한이음",
+      "explanation": "딥러닝 기반 객체인식 소자분류로봇",
+      "purpose": "AI 기술을 활용한 딥러닝 기반 객체인식 알고리즘을 활용하여 소자를 인식하고 이를 바탕으로 물품을 분류하는 로봇 시스템 및 솔루션",
+      "stacks": [
+        84,
+        83,
+        82,
+        81,
+        75,
+        80,
+        1,
+        4,
+        6,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 154,
+      "title": "한이음",
+      "explanation": "다가구 주택용 소형 주차 관리 시스템",
+      "purpose": "도시 내 소규모 주택가는 주차를 위한 공간이 협소하여 입주민의 주차 편의를 위해 별도의 주차 공간이 마련되어 있으나 외부인의 무분별한 주차로 인해 불편함을 겪고 있어 이를 해결하고자 만든 주차 방지 장치",
+      "stacks": [
+        9,
+        1,
+        6,
+        39,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 153,
+      "title": "한이음",
+      "explanation": "영상처리를 이용한 셀프 스마트 쇼핑 카트",
+      "purpose": "셀프 스마트 쇼핑 카트는 센서와 카메라를 이용하여 사용자와 일정 거리를 유지하며 따라다니고, 쇼핑 카트에 디스플레이와 결제를 진행할 수 있는 장치를 부착하여 고객이 카트에서 직접 결제를 할 수 있고, 카메라를 통해 카트에 담긴 각각의 상품의 금액과 총금액을 고객에게 보여줄 수 있도록 편리성",
+      "stacks": [
+        1,
+        6,
+        30,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 152,
+      "title": "한이음",
+      "explanation": "자연어처리를 활용한 국회 입법활동 분석",
+      "purpose": "국회에서 발의되는 수많은 의안 정보를 시각적으로 조회하고 기간별 의안 동향을 확인할 수 있는 국회 의안·의원 정보 제공?",
+      "stacks": [
+        1,
+        4,
+        18,
+        23,
+        53
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 151,
+      "title": "한이음",
+      "explanation": "뎁스 카메라를 이용한 비전 슬램 4족보행로봇",
+      "purpose": "2D LiDAR와 Depth Camera를 이용한 SLAM을 구성하여 주변 환경을 파악하고 장애물을 피할 수 있는 자율주행 알고리즘 개발",
+      "stacks": [
+        75,
+        35,
+        79,
+        1
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 150,
+      "title": "한이음",
+      "explanation": "웨이퍼 엣지 결함(Chip & Crack) 인식 장비 개발",
+      "purpose": "고객 사에 납품하는 웨이퍼의 안정적인 공급을 위한 웨이퍼 엣지의 결함 검출 장비",
+      "stacks": [
+        1,
+        6,
+        78,
+        77
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 149,
+      "title": "한이음",
+      "explanation": "AI 음성인식 기반 대화형 상담 애착인형 플랫폼 개발",
+      "purpose": "아이의 속마음을 파악하기 위한 AI 챗봇 기반 심리 상담 보조 도구 도담이와 채팅 내역 확인, 감정 분석 도구, 상담사와의 연결 등 다양한 서비스를 제공하는 웹 앱을 포함하는 심리상담 보조 플랫폼",
+      "stacks": [
+        1,
+        4,
+        28,
+        5,
+        18,
+        76,
+        75,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 148,
+      "title": "한이음",
+      "explanation": "영상처리를 이용한 농작물 품질 및 선별 자동화 시스템",
+      "purpose": "영상 처리와 기계 학습을 활용하여 사과의 전 표면을 스캔해 사과의 품질을 판별하며, 이를 위한 기구적 장치를 설계함. 또한 기존 육안 선별 대비 일관된 선별 기준으로 신뢰도를 높이는 자동화 시스템을 구축",
+      "stacks": [
+        7,
+        2,
+        1,
+        74,
+        39,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 147,
+      "title": "한이음",
+      "explanation": "인공지능 챌린저! 나만의 힐링라이프, 반려식물라이프~",
+      "purpose": "Arduino를 이용해 온도 센서, 습도 센서, 조도 센서를 이용해 수집한 데이터 값을 앱으로 전송하여 그 값에 따라 식물별 맞춤 관리를 제공",
+      "stacks": [
+        1,
+        15,
+        59,
+        104,
+        93,
+        6,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 146,
+      "title": "한이음",
+      "explanation": "딥러닝 기반 다목적 자율주행 플랫폼 개발",
+      "purpose": "환경미화원의 열악한 노동 환경을 개선하기 위하여 보도 청소를 실시하며, 청소 중 발견하는 분실물을 Database에 등록하는 로봇",
+      "stacks": [
+        6,
+        1,
+        38,
+        66
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 145,
+      "title": "한이음",
+      "explanation": "AI 영상분석을 활용한 스마트 스쿨존 안전시스템",
+      "purpose": "카메라를 통해 스쿨존을 촬영하고, 실시간으로 이를 분석하여 위험 객체 판단, 충돌 위험 감지, 불법 주/정차 차량 등을 판단하는 시스템",
+      "stacks": [
+        1,
+        8,
+        73,
+        72,
+        30
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 144,
+      "title": "한이음",
+      "explanation": "전동킥보드 안전운전 장려 시스템",
+      "purpose": "안전 주행 기준에 따라 위반 내역을 주행자에게 고지하여 스스로 운전 습관을 확인하고 마일리지 적립을 통해 자발적으로 안전 운전을 장려",
+      "stacks": [
+        1,
+        9,
+        28,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 143,
+      "title": "한이음",
+      "explanation": "스마트 배송 로봇",
+      "purpose": "물류의 자동화가 이루어지고 그에 따른 기술의 효율성이 대두됨에 따라 택배 배송이나 음식 베달 등에 도움이 될 수 있도록 엘리베이터와 연동하여 자동으로 배송할 수 있는 로봇을 제작",
+      "stacks": [
+        1,
+        2
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 142,
+      "title": "이브와",
+      "explanation": "펫테크(pet-tech) 보금자리 자동화 및 가시화 애플리케이션 개발",
+      "purpose": "바쁜 현대인의 시간과 체력을 위해서, 반려동물의 낯선 동거를 위해서, 반려동물의 환경을 알아서 조절해주는 스마트한 케이지",
+      "stacks": [
+        9,
+        23,
+        3,
+        2,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 141,
+      "title": "이브와",
+      "explanation": "데이터 분석 활용한 생활 대형 폐기품(가전, 가구 등) 간소화 시스템",
+      "purpose": "사진을 통해 폐기물을 AI로 자동인식한 후 간단한 3단계의 처리 과정으로 (중)대형 생활 폐기물을 처리하고, 사용자 간의 중고거래 시스템을 보유한 딥러닝 애플리케이션",
+      "stacks": [
+        1,
+        21,
+        57,
+        5,
+        40
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 140,
+      "title": "이브와",
+      "explanation": "haptic을 활용한 메타버스 실감교육 플랫폼 '메타블록'",
+      "purpose": "메타버스의 실감기술을 바탕으로 하드웨어와 소프트웨어의 융합 플랫폼을 개발하여 블록쌓기를 이용해 인간의 감각기관과 인지 능력을 자극하고 실제와 유사한 경험을 할 수 있도록?",
+      "stacks": [
+        7,
+        31,
+        66,
+        6,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 139,
+      "title": "이브와",
+      "explanation": "How to Kill That Witch",
+      "purpose": "VR?시장에서 핸드트래킹에 익숙하지 않은 사람들도 쉽게 플레이할 수 있는 게임",
+      "stacks": [
+        7,
+        31,
+        71,
+        70
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 138,
+      "title": "이브와",
+      "explanation": "AR기반 옷 입히기 서비스 NAVATAR",
+      "purpose": "가상으로 사용자가 옷을 입어볼 수 있게 해 언택트 시대에 걸맞는 새로운 피팅 패러다임 개설",
+      "stacks": [
+        7,
+        10,
+        4,
+        9,
+        31,
+        105,
+        3
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 137,
+      "title": "이브와",
+      "explanation": "인공지능을 활용한 공사 현장 관리 시스템",
+      "purpose": "근무자용과 관리자용 앱으로 이루어져 있으며, 관리자는 관리자용 앱을 이용하여 현장에 상주하고 있지 않아도 원격으로 근무자들의 안전 상태에 대해 관리할 수 있고 근무자들은 근무자용 앱을 통해 편리한 환경에서 근무 가능",
+      "stacks": [
+        8,
+        1,
+        59,
+        30,
+        3
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 136,
+      "title": "이브와",
+      "explanation": "대형 실내공간의 공기 질 측정 및 자율주행 기술을 응용한 능동 공기정화기 개발",
+      "purpose": "국지적으로 발생하는 공기 오염에 대한 해소를 위한 능동형 공기 정화기를 개발",
+      "stacks": [
+        6,
+        2,
+        1,
+        4,
+        23
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 135,
+      "title": "이브와",
+      "explanation": "딥러닝 기반 수어교육프로그램 “ SONSU ”",
+      "purpose": "수어를 배우고자 하는 사람들을 위해 제작된 동작인식기술을 활용한 수어교육프로그램",
+      "stacks": [
+        9,
+        4,
+        1,
+        18,
+        28,
+        3
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 134,
+      "title": "이브와",
+      "explanation": "뇌파기반 1인 맞춤 미디어아트",
+      "purpose": "?좋아하는 음악을 들으면서 느끼는 감정을 뇌파를 사용해 딥러닝으로 파악하고 체험자만의 감정에 맞추어 형성되는 인터랙티브 미디어 아트",
+      "stacks": [
+        1,
+        7,
+        31,
+        28,
+        69
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 133,
+      "title": "프로보노",
+      "explanation": "가상현실(VR) 환경에서의 재활운동 및 치료를 위한 의료 시스템 개발",
+      "purpose": "가상현실(VR) 환경에서 치료사와 실시간으로 소통하며 팔 재활치료를 할 수 있도록 하는 RehabVR",
+      "stacks": [
+        2,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 132,
+      "title": "프로보노",
+      "explanation": "노약자 전동보장구 응급상황 탐지 및 대응 시스템",
+      "purpose": "전동보장구를 사용하는 노약자들을 대상으로 낙상사고 발생 시, 사용자의 응급상황을 파악하여 사고에 대한 신속한 대응",
+      "stacks": [
+        6,
+        2,
+        9,
+        8
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 131,
+      "title": "프로보노",
+      "explanation": "인공지능 시선추적 학습 모듈 기반 루게릭병(ALS) 환자 커뮤니케이션 플랫폼",
+      "purpose": "안구마우스를 통해 보호자의 도움없이 루게릭 병 환자가 눈으로 단어 및 문장을 입력하여 보호자와 루게릭병환자 간의 의사소통을 할 수 있도록 도와주는 커뮤니케이션 플랫폼",
+      "stacks": [
+        23,
+        68,
+        4,
+        9,
+        1,
+        67,
+        22
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 130,
+      "title": "프로보노",
+      "explanation": "교통약자를 위한 웨어러블 디바이스 및 AIoT 횡단보도 시스템",
+      "purpose": "횡단보도를 건너는데 불편함이 있는 시각장애인들을 위한 어플리케이션을 만들어, 시각장애인들이 횡단보도를 건널 때 안전하게 건널 수 있는 시스템을 구축",
+      "stacks": [
+        6,
+        9,
+        16,
+        66
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 129,
+      "title": "프로보노",
+      "explanation": "시각장애인을 위한 AI 음성 인식 기반 쇼핑 앱",
+      "purpose": "대화형 음성 챗봇으로 문자 정보를 인식하기 어려운 시각장애인을 위한 온라인 쇼핑 정보를 제공",
+      "stacks": [
+        9,
+        8,
+        1,
+        3
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 128,
+      "title": "프로보노",
+      "explanation": "시각장애인의 원활한 물품구매를 도와주는 자율주행 안내로봇",
+      "purpose": "편의점이나 마트에서 시각장애인을 위해 원하는 물품매대까지 안내해주고, 물품의 정보를 알려주는 로봇",
+      "stacks": [
+        1,
+        65,
+        64,
+        63,
+        62,
+        6
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 127,
+      "title": "프로보노",
+      "explanation": "고령자를 위한 신체 유연성 측정 및 향상을 위한 콘텐츠 개발",
+      "purpose": "IMU(관성측정장치)를 이용한 Unity 3D 게임 엔진 기반의 유연성 측정 및 향상을 위한 VR 콘텐츠",
+      "stacks": [
+        7,
+        31
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 126,
+      "title": "프로보노",
+      "explanation": "노약자와 장애인을 위한 IoT기반 모션센서 활용 스마트 교통신호 제어시스템 개발",
+      "purpose": "고령화가 지속적으로 증가하는 추세로, 대한민국 사회의 문제에 대응 방안 제시",
+      "stacks": [
+        61,
+        60,
+        39,
+        46
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 125,
+      "title": "프로보노",
+      "explanation": "노약자와 장애인를 위한 IoT기반 바이러스 감염 및 우울증 방지를 위한 비접촉식 스마트조명시스템 개발",
+      "purpose": "노약자도 조명의 배열을 손쉽게 쓸 수 있는 기술과 IoT, Arduino의 기술을 활용하여 스마트폰, 터치패널 및 비접촉식 방식으로 제어가 가능하게 하고, 여러 센서들을 활용하여 바이러스에 노출될 위험을 감소시키고 우울증감소 효과에관한 기능들을 추가로 한 스마트 조명제어 시스템",
+      "stacks": [
+        6,
+        39,
+        107
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 124,
+      "title": "프로보노",
+      "explanation": "신체적 약자를 위한 IoT기반 원격 화재경보 발신 시스템 개발",
+      "purpose": "신체적 약자들이 화재 상황을 발견했을 경우 화재발신기를 원활히 작동하고 신속하게 대피할 수 있도록 원격으로 화재발신기를 작동할 수 있도록 설계한 제품",
+      "stacks": [
+        39,
+        46
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 123,
+      "title": "프로보노",
+      "explanation": "상지 마비 환자의 손 기능 재활을 위한 원격 제어 글러브와 로봇 팔",
+      "purpose": "손 기능 재활운동 햅틱 글러브 및 로봇 제어 인터페이스를 통해 물체를 파지하고 이동, 상지마비 환자 및 장애인으로 하여금 보다 흥미롭게 재활 훈련을 하는데 초점",
+      "stacks": [
+        108,
+        33,
+        58
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 122,
+      "title": "프로보노",
+      "explanation": "VR을 이용한 지체 장애인용 재난 탈출 콘텐츠",
+      "purpose": "다수의 장애인 재난 대피 매뉴얼을 하나로 통일하여 정확한 콘텐츠를 제작하고 VR과 같은 흥미를 유발하여 효율적으로 교육을 진행할 수 있는 방법을 사용하여 교육대상자의 효율적인 교육 완료를 중점으로 개발한 VR을 이용한 지체 장애인용 재난 탈출 콘텐츠",
+      "stacks": [
+        7,
+        31
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 121,
+      "title": "프로보노",
+      "explanation": "노인을 위한 키오스크 서비스(노인 사용이 편리하도록 UI/UX 개발)",
+      "purpose": "노년층이 어려움을 겪었던 기존 키오스크의 문제점을 해결하여 기존 키오스크 보다 훨씬 사용하기 편한 UI/UX 화면과 간단한 주문절차를 제공하는 키오스크",
+      "stacks": [
+        10,
+        13,
+        4,
+        57,
+        18,
+        1,
+        34,
+        27
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 120,
+      "title": "프로보노",
+      "explanation": "장애인의 안전한 병원 생활을 위한 스마트 링거 폴대",
+      "purpose": "수액 주입 속도에 따른 부작용, 수액 역류로 인한 문제, 링거대 이동 시 생기는 불편함 등을 해소",
+      "stacks": [
+        1,
+        9,
+        6,
+        39
+      ],
+      "year": 2022
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 119,
+      "title": "이브와",
+      "explanation": "스마트 IoT 헬멧 및 스마트 안전 모니터링 시스템",
+      "purpose": "스마트 IoT 헬멧으로 작업 환경의 실시간 정보를 수집하고 이를 분석하여 작업자 및 작업장을 모니터링하는 시스템이다.",
+      "stacks": [
+        33
+      ],
+      "year": 2021
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 118,
+      "title": "이브와",
+      "explanation": "음성인식(STT)기술 기반 엘리베이터 연동 앱(Elevator App for Blind)",
+      "purpose": "본 작품은 모든 사람들이 음성 또는 텍스트를 입력하여 간편하게 엘리베이터를 이용할 수 있도록 하는 어플이다.",
+      "stacks": [
+        33,
+        34
+      ],
+      "year": 2021
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 117,
+      "title": "프로보노",
+      "explanation": "노약자를 위한 공개용 STT API를 이용한 인공지능 보이스피싱 방지 시스템",
+      "purpose": "노약자를 위한 보이스피싱 방지 시스템으로, 음성 데이터를 분석하여 보이스피싱 여부를 판단하고, 경고하는 시스템입니다.",
+      "stacks": [
+        34
+      ],
+      "year": 2021
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 116,
       "title": "한이음",
       "explanation": "Swerve Drive 기반 AMR(Autonomous Mobile Robot) 시스템 개발",
       "purpose": "2 Wheel Swerve 방식을 이용해 보다 많은 기능을 mobile platform위에 적용하는 것이 가능, 이러한 mobile robot의 자율주행을 통한 인건비 감소효과를 볼 수 있고 종방향으로만 docking이 가능했던 기존 방식과는 다르게 종,횡방향 모두 docking이 가능해 더 다양한 application 적용이 가능",
@@ -1025,7 +2250,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 188,
+      "number": 115,
       "title": "스마트해상물류",
       "explanation": "빅데이터를 이용한 울산항만 모니터링 시스템",
       "purpose": "울산항만의 다양한 데이터(선박입출항, 부두상황, 물동량, 부두능력)를 시각화 및 분석하여 울산항만 관리자들의 의사결정을 지원하는 모니터링시스템",
@@ -1038,7 +2263,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 187,
+      "number": 114,
       "title": "이브와",
       "explanation": "화장을 처음 하는 사람들을 위한 튜토리얼과 맞춤형 메이크 업을 추천",
       "purpose": "스마트 메이크 업 기능을 제공하여 처음 화장할때 겪는 어려움을 줄여주고 화장품을 구매할 확률을 높임",
@@ -1051,7 +2276,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 186,
+      "number": 113,
       "title": "프로보노",
       "explanation": "시각장애인 버스 이용편의 개선 시스템",
       "purpose": "시각장애인 버스 이용 실태를 개선하기 위해 영상처리로 버스를 인식하여 정류장에 들어오는 버스를 음성으로 안내하고, 시각장애인에게 탑승 버스를 입력받아 해당 버스가 정류장에 진입하면 LED 전광판을 통해 정차를 유도하여 탑승을 돕는 시스템",
@@ -1065,7 +2290,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 185,
+      "number": 112,
       "title": "한이음",
       "explanation": "아마추어를 위한 풋살영상 분석 시스템",
       "purpose": "드론으로 촬영한 풋살 경기 영상을 입력받아 영상 처리 기술을 활용하여 풋살 선수와 감독을 위한 경기분석 플랫폼을 제공",
@@ -1083,7 +2308,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 184,
+      "number": 111,
       "title": "한이음",
       "explanation": "자율주행 스마트 서빙로봇",
       "purpose": "3축 스텝모터를 이용하여 변화하는 기울기에도 트레이의 수평을 유지하는 기술을 융합하는 등 고부가가치를 창출할 수 있는 스마트 서빙로봇을 제작",
@@ -1096,14 +2321,14 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 183,
+      "number": 110,
       "title": "스마트해상물류",
       "explanation": "IoT 디지털트윈을 이용한 교육용 로딩암 시뮬레이터",
       "purpose": "로딩암 교육 시뮬레이터를 개발하여 조종에 미숙한 사람들이 가상현실이라는 특성을 이용하여 부담 없이 연습이 가능하고 안전교육으로 활용",
       "stacks": [
         7,
-        11,
-        18,
+        59,
+        3,
         39
       ],
       "year": 2020
@@ -1112,7 +2337,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 182,
+      "number": 109,
       "title": "이브와",
       "explanation": "드론과 어플을 활용한 위치 탐색 서비스",
       "purpose": "드론과 어플을 활용하여 피해자의 위치와 존재를 파악할 수 있는 서비스로 추후 구조나 범죄예방에 활용",
@@ -1129,7 +2354,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 181,
+      "number": 108,
       "title": "이브와",
       "explanation": "IoT를 이용한 어린이 실내 놀이시설 개발",
       "purpose": "기존에 초등학교에 설치된 어린이 놀이시설은 외부활동이 제약되고 실내 체육활동이 증가하여 개선이 필요한 상황에서 초등학교의 놀이시설을 실내에서 재미있게 즐길 수 있도록 ‘Gamification’을 적용하여 제작",
@@ -1144,13 +2369,13 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 180,
+      "number": 107,
       "title": "프로보노",
       "explanation": "IoT 기반의 독거 치매노인 안심 돌봄 시스템",
       "purpose": "디바이스가 어르신의 생활을 돕고 복약, 식사, 활동량, 외출 데이터를 수집 및 분석한다. 분석된 생활 데이터와 위험 알람은 보호자, 치매안심센터용 앱을 통해 전달된다. 이를 통해 복지 사각지대를 줄이고 효과적인 돌봄을 제공",
       "stacks": [
         9,
-        11,
+        59,
         1
       ],
       "year": 2020
@@ -1159,7 +2384,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 179,
+      "number": 106,
       "title": "프로보노",
       "explanation": "사회적 약자의 정보격차 해소를 위한 미디어 서비스",
       "purpose": "TV 셋톱박스(STB) 기반 TV 알림 서비스 제공을 통해 정보 격차를 해소하는 미디어 서비스로 사용자의 TV를 보호자의 APP(BTVVeen)과 연동하여 정보 취약 계층과 보호자를 이어주는 서비스",
@@ -1173,7 +2398,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 178,
+      "number": 105,
       "title": "한이음",
       "explanation": "IoT를 결합한 스마트 등산스틱",
       "purpose": "등산스틱과 IoT를 결합한 스마트 등산스틱을 통해 등산객의 불편함을 해소해주고, 다양한 편의를 제공, 또한 등산스틱과 앱을 연동하여 기존 등산 활동 자체에서 나아가 보다 더 편안하고 스마트한 등산 활동을 하는데 기여",
@@ -1187,7 +2412,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 177,
+      "number": 104,
       "title": "한이음",
       "explanation": "가상현실 기술을 활용한 동화 체험 시스템",
       "purpose": "플레이어가 직접 책을 선택하고 가상의 동화 세계에서 상호작용하며 스토리를 이끌어 나가는 체험형 VR동화로 능동적 학습 유도",
@@ -1200,7 +2425,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 176,
+      "number": 103,
       "title": "한이음",
       "explanation": "동안 피부를 위한 천연 화장품 메이커",
       "purpose": "1. 진단 기기를 활용한 피부 측정 2. 측정 결과 기반의 피부 분석 3. 분석 결과를 참조한 맞춤형 화장품 제조의 3단계 스킨케어 시스템을 제공하여 소비자가 본 시스템을 통해 집에서 손쉽게 맞춤형 화장품을 제조",
@@ -1213,14 +2438,14 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 175,
+      "number": 102,
       "title": "스마트해상물류",
       "explanation": "Smart해상 물류를 구현할 최신 Edge Computing, 자율 접안 AI 형 시뮬레이터 개발",
       "purpose": "스마트 해상 물류를 구현할 최신 Edge Computing, 자율 접안 AI 형 시뮬레이터로 자율 운행 뿐만아닌 도선사, 예인선 등 많은 고급 인력이 필요한 분야에서 AI 사용으로 일을 더욱 수월하고 정밀하게 지원",
       "stacks": [
         1,
         39,
-        18
+        3
       ],
       "year": 2020
     }
@@ -1228,7 +2453,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 174,
+      "number": 101,
       "title": "스마트해상물류",
       "explanation": "영상처리와 IoT를 활용한 해상 물류 컨테이너 자동 선적 로봇 시스템",
       "purpose": "해상 물류 컨테이너 자동 선적 로봇 시스템을 구현하여 항만 시설을 자동화함으로써, 업무 효율성을 극대화",
@@ -1244,7 +2469,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 173,
+      "number": 100,
       "title": "이브와",
       "explanation": "영상처리를 이용한 핸드시그널 커뮤니케이션",
       "purpose": "청각장애우들이 사회에서 의사소통을 하는데 있어 사회적, 환경적 요인들로 겪고있는 불편함들을 해소하고자 그들의 언어(수화)를 텍스트로 통역하여 서로간 양방향 의사소통을 가능",
@@ -1262,7 +2487,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 172,
+      "number": 99,
       "title": "이브와",
       "explanation": "AI 기반의 스마트 제어 수직형 스마트팜 개발",
       "purpose": "스마트 기기를 사용한 첨단 IT 기술을 농업 기술에 접목하여 오늘날을 비롯한 미래 도시 농업의 발전에 기여할 수 있으며 장소에 구애받지 않아 농가 인구 감소 및 고령화 문제 해결이 가능한 파이프 수직형 재배기",
@@ -1275,7 +2500,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 171,
+      "number": 98,
       "title": "이브와",
       "explanation": "협업 방식을 경험할 수 있는 블록코딩 모바일 앱",
       "purpose": "폭포수 모델의 흐름이 반영되어 학생들이 스스로 사고하며 알고리즘을 짜고, 모든 팀원들이 동시에 코드를 작성하여 협업할 수 있는 비대면 협업 블록코딩 모바일 어플리케이션",
@@ -1289,7 +2514,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 170,
+      "number": 97,
       "title": "프로보노",
       "explanation": "시각장애인을 위한 점자 교육 시스템",
       "purpose": "시각장애인이 점자를 스스로 학습할 수 있도록 점자 키트와 어플리케이션을 연동하여 점자 학습 시스템을 개발하여 시각장애인에게 교육, 퀴즈, 번역 등 유용한 기능을 제공하여 시각장애인의 삶의 질 향상을 기대",
@@ -1304,7 +2529,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 169,
+      "number": 96,
       "title": "프로보노",
       "explanation": "자동긴급제동장치 휠체어 키트",
       "purpose": "ToF센서를 이용해 휠체어 후진 시 발생하는 사고를 미연에 방지하며, 전진 시 스위치를 이용하여 휠체어를 제동, 또한  휠체어 후면의 영상을 사용자에게 제공하여 휠체어 사용자의 안전한 이동을 돕는 부착식 보조 장치",
@@ -1318,7 +2543,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 168,
+      "number": 95,
       "title": "프로보노",
       "explanation": "시각장애인의 원활한 의생활을 돕기 위해 딥러닝과 영상 인식 기법을 적용한 스마트 옷장",
       "purpose": "음성인식을 통해 사용자가 원하는 기능을 판독하고, 딥러닝 CNN 옷 인식 모델을 통해 옷에 대한 정보를 알려주는 시각장애인을 위한 딥러닝 스마트 옷장",
@@ -1331,7 +2556,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 167,
+      "number": 94,
       "title": "한이음",
       "explanation": "객체검출을 이용한 지능형 교통 관리 시스템",
       "purpose": "신호등별 대기 차량의 대수를 객체 검출(Object Detection)을 하여 산출한 후 이를 바탕으로 신호등을 제어함으로써 원활한 교통흐름을 구현",
@@ -1346,7 +2571,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 166,
+      "number": 93,
       "title": "한이음",
       "explanation": "빅데이터 분석을 활용한 영어 학습 애플리케이션",
       "purpose": "웹크롤링을 통하여 각종 영문 뉴스 웹사이트(코리아헤럴드 등)에서 수집한 최신 영문 뉴스 기사의 유용한 단어 및 표현을 추출하여 매일 사용자에 제공, 영어 발음 교정기술은 사용자의 영어강세를 음절 단위로 분석하여 교정방향을 제시",
@@ -1361,7 +2586,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 165,
+      "number": 92,
       "title": "한이음",
       "explanation": "인공지능 기반 골프 하이라이트 영상 추출 소프트웨어",
       "purpose": "?인공지능 기계학습 기술을 이용하여 골프 영상에서 자동으로 하이라이트 부분을 분류, 추출하는 시스템으로 골프 영상의 하이라이트를 추출하는 데 드는 시간과 비용을 줄이고 영상의 질을 높임",
@@ -1374,7 +2599,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 164,
+      "number": 91,
       "title": "한이음",
       "explanation": "수면 관리를 위한 스마트 침대",
       "purpose": "코골이/무호흡/개인질환별 수면교정과 통계를 제공하는 스마트 침대를 제안하여 수면의 질 향상",
@@ -1389,7 +2614,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 163,
+      "number": 90,
       "title": "한이음",
       "explanation": "객체검출과 SLAM을 이용한 자동화 서빙로봇",
       "purpose": "자동화 서빙로봇의 사용으로 사람을 고용하였을 때 발생하는 다양한 문제점을 해결",
@@ -1404,7 +2629,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 162,
+      "number": 89,
       "title": "한이음",
       "explanation": "소상공인을 위한 스마트창고",
       "purpose": "쉽고 간단한 웹 인터페이스와 RFID를 통한 실시간 입출고 시스템으로 창고와 고객 주문을 효율적으로 관리할 수 있고, 다품종 소량 생산에 최적화된 자동 출고 Machine을 적용",
@@ -1417,7 +2642,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 161,
+      "number": 88,
       "title": "한이음",
       "explanation": "감정 분석을 통한 메뉴 추천 서비스",
       "purpose": "메뉴 결정에 고민이 많은 현대인을 위한 얼굴 감정 분석 기반 음식 추천 서비스",
@@ -1433,7 +2658,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 160,
+      "number": 87,
       "title": "한이음",
       "explanation": "자연어처리 및 비전을 이용한 AI 기반 맞춤형 법률 서비스 앱",
       "purpose": "OCR기술과 자연어처리 기술을 이용하여 사용자 맞춤형 판례 제공 및 기타 법률 서비스와 커뮤니티 서비스를 제공하는 앱 기반 법률 플랫폼",
@@ -1447,7 +2672,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 159,
+      "number": 86,
       "title": "스마트해상물류",
       "explanation": "VR HMD를 이용한 스마트항만 전기/전자장비 유지보수 솔루션 개발",
       "purpose": "최근 주목받고 있는 unity3D 엔진과 가상현실 기술을 활용하여 작업자들이 시간과 장소의 제약 없이 더욱 현실감 있는 환경에서 효율적으로 항만 유지/보수 교육을 받을 수 있는 환경을 제공",
@@ -1460,7 +2685,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 158,
+      "number": 85,
       "title": "스마트해상물류",
       "explanation": "IoT 및 AI 영상인식을 통한 스마트 해상 관제 시스템",
       "purpose": "하버아이(Harbor Eye) IoT 및 영상 인식을 통한 스마트 해상관제 시스템 1) 지능형 CCTV 2) 보안 컨테이너 3) 컨테이너 내부 환경 스마트 조절",
@@ -1482,7 +2707,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 157,
+      "number": 84,
       "title": "스마트해상물류",
       "explanation": "쉽고 재미있는 스마트 항만 IoT 융합 무인자율이동머신개발",
       "purpose": "Drive through를 기반으로 항만을 구현하여, 인공지능 기술로 선박 종류를 파악하고, 통합 제어 웹을 이용해 항만의 무인자율화를 실현",
@@ -1499,7 +2724,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 156,
+      "number": 83,
       "title": "이브와",
       "explanation": "모션 인식 적용이 가능한 한 손 제어 드론",
       "purpose": "웨어러블 장갑을 이용하여 모션인식 기술로 드론을 조종하는 방식으로 개발 및 수정하여 조이스틱을 사용하다가 겪는 불편함을 개선",
@@ -1513,7 +2738,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 155,
+      "number": 82,
       "title": "이브와",
       "explanation": "모바일자키를 위한 영상제작 솔루션 개발",
       "purpose": "접근성 높은 모바일 환경에서의 동영상 제작 솔루션 / 초심자도 직관적으로 이해 가능한 간편한 기능. 촬영 중 생성한 타임 스탬프를 이용해 편집 시간 단축의 효과",
@@ -1526,7 +2751,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 154,
+      "number": 81,
       "title": "이브와",
       "explanation": "로라망과 QR코드를 활용한 반려동물 케어 ioT기기",
       "purpose": "저전력 장거리 통신기술인 LoRa 통신과 GPS 센서를 이용한 반려동물 위치추적 IoT 기기를 개발하여 반려동물 실종 감소, 보완성 개선",
@@ -1540,7 +2765,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 153,
+      "number": 80,
       "title": "이브와",
       "explanation": "라즈베리파이를 이용한 홀로그램 알람 모닝홀",
       "purpose": "정해진 시간이 되면 요가의 기초 자세인 태양예배자세 중 하나의 자세를 홀로그램으로 보여주여 알맞은 자세를 취해 알람을 해제하도록 하는 아침운동이 가능헌 헬스트레이너 모닝콜",
@@ -1554,14 +2779,14 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 152,
+      "number": 79,
       "title": "이브와",
       "explanation": "센서를 활용하여 다양한 화재요소 감지 및 인식을 반영한 시뮬레이션",
       "purpose": "센서를 활용하여 다양한 화재요소 감지 및 인식을 반영한 시뮬레이션을 통해 화재 건물 내부의 인원변동 및 화재변수에 대비한 대피경로를 3D그래픽과 CPS기반의 디지털트윈으로 구현",
       "stacks": [
         1,
         6,
-        11
+        59
       ],
       "year": 2020
     }
@@ -1569,7 +2794,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 151,
+      "number": 78,
       "title": "이브와",
       "explanation": "6차 산업의 새로운 부가가치를 창출하는 \"스마트 생장 로봇",
       "purpose": "비닐하우스를 일부 개조하는 형태로 스마트 생장 로봇을 제작해 센서와 센싱하여 생장 환경 정보를 수치화해 제공하고, 농작물을 인식해 수확량을 예측하며 수확시기가 되면 사용자에게 알려주어 농사의 접근성 제고",
@@ -1587,14 +2812,14 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 150,
+      "number": 77,
       "title": "이브와",
       "explanation": "청각장애인을 위한 스마트홈",
       "purpose": "초인종이 울릴 때, 화재가 발생하였을 때 등 집 안에서 발생하는 일들과 원활하게 소통할 수 없는 불편함이 있는 청각장애인들을 위하여 시각적인 정보를 전달하는 스마트 홈을 구현함으로써 불편함을 해소",
       "stacks": [
         9,
-        11,
-        18
+        59,
+        3
       ],
       "year": 2020
     }
@@ -1602,7 +2827,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 149,
+      "number": 76,
       "title": "이브와",
       "explanation": "웹과 가상현실 통합 서비스를 위한 하이브리드 컨텐츠 기술",
       "purpose": "VR 학습 콘텐츠 이외에 학생들이 개별적으로 나머지 시간 동안  VR 콘텐츠와 연계하여 학습할 수 있는 웹/VR hybrid 용인 Full Package 솔루션을 제공",
@@ -1618,7 +2843,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 148,
+      "number": 75,
       "title": "이브와",
       "explanation": "치매 예방을 위한 VR 게임",
       "purpose": "음악에 맞춰 색을 이용하는 리듬 게임과 단어의 순서를 맞추는 단어게임을 통해 인지능력 및 기억능력의 상승을 돕는 것을 목적으로 한, 치매의 치료와 예방을 위한 VR 게임",
@@ -1631,7 +2856,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 147,
+      "number": 74,
       "title": "이브와",
       "explanation": "블록체인 기반 긴급 상황 예방 도어락 서비스",
       "purpose": "블록체인 기술을 도입하여 보안 시스템을 강화하고 긴급 상황 서비스를 구축하여 범죄를 예방하는 여성 및 치안 취약계층 안전 도모 도어록 서비스",
@@ -1647,7 +2872,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 146,
+      "number": 73,
       "title": "프로보노",
       "explanation": "노약자를 위한 리프트기",
       "purpose": "작업자의 편의를 고려한 리프트를 개발하여 노약자를 위한 장비 및 물건 상하차 작업시 허리부상을 최소화",
@@ -1660,7 +2885,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 145,
+      "number": 72,
       "title": "프로보노",
       "explanation": "유아용 의류 건조기",
       "purpose": "내부의 건조대가 자동으로 상승하는 방식을 채용해 허리 굽히지 않고 상승 방식의 건조기를 구현",
@@ -1673,7 +2898,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 144,
+      "number": 71,
       "title": "프로보노",
       "explanation": "치매병증 예측 및 완화를 위한 다목적 푸딩장치와 헬스케어 프로그램",
       "purpose": "데이터화된 활동을 패턴닝화하여 하여 차이(이상징후, 질병가능성)를 미리 예측하고 지속적으로 변화를 관찰하여 사전적 예방과 사후적 대안치료 장치/콘텐츠로써 미술치료와 3D프린터의 융합 개념인 푸드프린터",
@@ -1686,7 +2911,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 143,
+      "number": 70,
       "title": "프로보노",
       "explanation": "노약자 중점 IoT 개인 비서",
       "purpose": "고령화 사회를 고려하여 보기 편한 UI/UX를 기반한 일상생활의 다양한 전자 기기들의 통합제어를 목적으로 한다. 더불어 저예산 제작을 통해 1-2인 가구가 사용 대상이며 작지만 강력한 접근성 기능들을 탑재",
@@ -1705,7 +2930,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 142,
+      "number": 69,
       "title": "프로보노",
       "explanation": "저소득층 영유아를 위한 라즈베리파이 노트북을 활용한 온라인 교육 단말기",
       "purpose": "라즈베리파이 보드를 이용한 노트북을 제작하고, 이 노트북에서 운용될 수 있는 무료 교육 콘텐츠들을 조사하여 아동의 연령대별로 쉽게 접근할 수 있는 소프트웨어나 웹서비스를 탑재하여 저소득층 영유아들의 교육에 대한 접근성 증가",
@@ -1718,7 +2943,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 141,
+      "number": 68,
       "title": "프로보노",
       "explanation": "시각장애인을 위한 스마트 공기청정기",
       "purpose": "1. 음성인식을 통한 공기청정기 조작 및 자동 제어 시스템으로 간편한 사용법 2. 여러 가지 정보(날씨, 온도, 미세먼지 농도)를 제공하며 가격도 저렴한 All-in-One 역할 수행",
@@ -1732,7 +2957,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 140,
+      "number": 67,
       "title": "프로보노",
       "explanation": "라즈베리파이를 활용한 치매예방 게임기 제작",
       "purpose": "라즈베리파이와 터치가 가능한?display를 이용해 간단한 치매 방지용 게임기 제작하여 스스로/?가족과 함께 하는 간단한 치매 진단과 치매 예방",
@@ -1745,7 +2970,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 139,
+      "number": 66,
       "title": "프로보노",
       "explanation": "휠체어를 사용하는 지체 장애인의 변기사용을 돕기 위한 휠체어 시트 튜닝",
       "purpose": "기존 휠체어에 DC모터와 각종 부품을 추가하여 휠체어 이용자들이 변기 이용을 타인의 도움 없이 가능하도록 고안",
@@ -1758,7 +2983,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 138,
+      "number": 65,
       "title": "프로보노",
       "explanation": "시각장애인용 안내보행기",
       "purpose": "실내 측위 기능과 자체 제작 내비게이션으로 최단 경로를 안내하고 음성 인식, 음성 안내 스마트폰 어플, 장애물 감지기능 등 사용자 경험을 기반으로 제작되어 누구나 쉽고 안전하게 사용",
@@ -1773,7 +2998,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 137,
+      "number": 64,
       "title": "프로보노",
       "explanation": "시각장애인을 위한 메트로 AI 청각 네비게이션",
       "purpose": "인공지능을 탑재한 애플리케이션을 개발해 시각장애인이 지하철 이용을 장려",
@@ -1787,7 +3012,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 136,
+      "number": 63,
       "title": "프로보노",
       "explanation": "시각장애인을 위한 점자출력패드 및 연동 어플리케이션",
       "purpose": "다양한 시각 학습자료들을 직접 듣거나 점자를 통해서 읽을 수 있도록 하며 필요시 점자학습, 알림연동까지 가능한, 휴대성이 편리한 스마트폰 진동점자 케이스 및 연동 가능한 시각장애인 보조 어플리케이션",
@@ -1800,7 +3025,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 135,
+      "number": 62,
       "title": "프로보노",
       "explanation": "시각장애인을 위한 인공지능 기반 자동 위험인식 및 내비게이션 시스템",
       "purpose": "시각장애인이 실내에서 원하는 곳으로 자율적이고 안전하게 도달할 수 있게 하는 내비게이션 로봇 시스템으로 Sensor fusion을 통해 장애물의 종류와 거리를 인식하며, VPS를 통해 사용자가 지정한 목적지까지 최단경로로 안내",
@@ -1813,7 +3038,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 134,
+      "number": 61,
       "title": "프로보노",
       "explanation": "청각장애인 실시간 통역 및 생활 소리 알림 시스템",
       "purpose": "소리를 듣지 못해 일상생활은 물론 의사소통에서도 불편함을 겪고 있는 청각장애인들을 위한 실시간 통역 및 소리 시각 알림 서비스",
@@ -1828,7 +3053,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": 133,
+      "number": 60,
       "title": "프로보노",
       "explanation": "IoT를 활용한 AI 미세먼지 측정 자율주행차 개발 프로젝트",
       "purpose": "자율주행 기술을 적용하여 이동성과 효율성을 바탕으로 사회적 약자(노약자·임신부·기저질환자 등)가 자주 이용하는 다인시설과 개인공간에 적합하고 편리하게 사용할 수 있는 공기청정기",
@@ -1843,7 +3068,610 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 59,
+      "title": "한이음",
+      "explanation": "Object Detection을 이용한 고객 맞춤형 광고 송출 모바일 로봇",
+      "purpose": "복합 쇼핑몰 안을 자유롭게 돌아다니며 얼굴인식 기술을 이용해 내부에 있는 고객들을 파악하여 고객들 Data를 얻고, 고객들만을 위한 맞춤형 광고를 송출",
+      "stacks": [
+        2,
+        1,
+        25,
+        56,
+        55,
+        54,
+        53,
+        52,
+        35
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 58,
+      "title": "스마트해상물류",
+      "explanation": "5G를 이용한 울산항 안전운항 시뮬레이션",
+      "purpose": "시뮬레이션, 드론을 통한 선박 운항자 대상 안전교육 및 일반인에게 안전 항해와 관련된 교육자료 및 게임",
+      "stacks": [
+        17,
+        51,
+        4,
+        105,
+        39
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 57,
+      "title": "이브와",
+      "explanation": "Interaction Media Works - 萬端說話",
+      "purpose": "실제 조선시대 평시조의 형식 내에서 사용자가 자유롭게 어절을 조합하며 나만의 고전시가를 만들 수 있고, 이를 통해 한국 문화와 고유 정서를 몸으로 체험",
+      "stacks": [
+        31,
+        39
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 56,
+      "title": "프로보노",
+      "explanation": "딥러닝을 활용한 수어번역기",
+      "purpose": "기존에 존재하는 애플리케이션과 달리 '한국 수어'를 동작하면 '한국어'를 도출하여 수어통역사를 대체하는 수어번역기",
+      "stacks": [
+        50,
+        49,
+        25,
+        48,
+        1
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 55,
+      "title": "한이음",
+      "explanation": "영상처리 분석을 통한 드론 군집 비행시스템 개발",
+      "purpose": "Laptop에서 사용자의 명령어를 입력받아 적절한 신호로 바꾸어 블루투스 통신을 이용해 드론에게 전달하고, 드론이 전달받은 신호에 맞는 동작을 수행하는 것으로 이루어지는데 프로그래밍을 모르는 일반인들도 쉽게 조작할 수 있게 영상처리",
+      "stacks": [
+        1
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 54,
+      "title": "한이음",
+      "explanation": "저자에게 임베디드 배워서 써빙 로봇만들기",
+      "purpose": "식당과 근거리 배달 그리고 관련업을 하는 소상공인을 현실적으로 돕는 방법을 모색하기위해 멘토님에게 Embedded ARM 코어 배워서 로봇 개발",
+      "stacks": [
+        6,
+        47
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 53,
+      "title": "한이음",
+      "explanation": "SLAM 기술을 이용한 운반용 자율주행 AGV",
+      "purpose": "LiDAR를 이용하여 AGV가 이동한 지역을 매핑하고 매핑된 지도를 이용하여 AGV가 자율 주행을 수행하고, 야간에는 조기에 화재나 가스 누출을 감지하고 경보를 울리고 대피를 유도",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 52,
+      "title": "한이음",
+      "explanation": "SCamera (텍스트 마이닝을 이용한 카메라 상품 검색 및 분석 APP)",
+      "purpose": "‘바이럴 마케팅’ 으로 인해, 이용후기를 거짓으로 작성하거나, 과장 확대하는 등의 마케팅 사업은 신문이나 TV 광고에 비해 가격이 저렴하면서도 효과가 커 각광받고 있는데, 우리는 사용자에게 하나의 대안",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 51,
+      "title": "스마트해상물류",
+      "explanation": "항만 작업자 안전 시스템",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 50,
+      "title": "프로보노",
+      "explanation": "결식아동 급식지원을 위한 결제 및 정보제공 플랫폼(꿈나무 카드 대체)",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 49,
+      "title": "프로보노",
+      "explanation": "딥러닝 기반의 자폐아를 위한 교육 프로그램",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 48,
+      "title": "프로보노",
+      "explanation": "청소년 대상 치매 인식개선 VR 프로그램 치매 인 더 트랩",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 47,
+      "title": "한이음",
+      "explanation": "헤어스타일링 지원 스마트미러",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 46,
+      "title": "한이음",
+      "explanation": "스마트미러를 활용하여 음성으로 제어하는 스마트 욕실 제작",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 45,
+      "title": "한이음",
+      "explanation": "동적물체 인식기술을 이용한 스크린 사격시스템 개발",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 44,
+      "title": "한이음",
+      "explanation": "모의면접 인공지능(AI) 챗봇(Chatbot)",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 43,
+      "title": "한이음",
+      "explanation": "시각장애인을 위한 스마트 옷장",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 42,
+      "title": "스마트해상물류",
+      "explanation": "IoT기반 드론을 이용한 화재현장 보고시스템",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 41,
+      "title": "스마트해상물류",
+      "explanation": "IoT를 적용한 로딩암 시뮬레이션 시스템",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 40,
+      "title": "프로보노",
+      "explanation": "지하철 임산부 배려 좌석 제공 서비스",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 39,
+      "title": "프로보노",
+      "explanation": "Class Assistant",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 38,
+      "title": "프로보노",
+      "explanation": "장애인의 쇼핑을 돕는 영상처리기반 스마트 쇼핑카트",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 37,
+      "title": "프로보노",
+      "explanation": "청각장애인을 위한 초인종",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 36,
+      "title": "한이음",
+      "explanation": "가상화폐기반 P2P 전기자동차 전력거래 시스템",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 35,
+      "title": "한이음",
+      "explanation": "AR기반 실시간 화면 공유 회의 시스템(AR Real-Time Screen Sharing Conference System)",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 34,
+      "title": "한이음",
+      "explanation": "카멜레On - 얼굴인식과 감정분석 기술을 활용한 AI 화상회의 중심 협업 플랫폼",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 33,
+      "title": "한이음",
+      "explanation": "모터 제어를 이용한 우산 빗물 제거기",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 32,
+      "title": "한이음",
+      "explanation": "라즈베리파이를 활용한 스마트 아기침대",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 31,
+      "title": "한이음",
+      "explanation": "HTC VIVE를 활용한 인체모방로봇",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 30,
+      "title": "한이음",
+      "explanation": "딥러닝을 활용한 테이크 아웃컵 전용 쓰레기통 개발 및 관리자 어플리케이션 제작",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 29,
+      "title": "한이음",
+      "explanation": "5G 시대의 편리한 IoT 쇼핑 환경 개발",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 28,
+      "title": "한이음",
+      "explanation": "Pitch Extraction을 통한 음악검색 및 작곡지원, 허밍노트(7층)",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 27,
+      "title": "스마트해상물류",
+      "explanation": "ICT기반의 항만 물류 자산관리 효율화",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 26,
+      "title": "스마트해상물류",
+      "explanation": "가상현실 기술을 활용한 스마트 항만 원격조정 훈련 콘텐츠 제작",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 25,
+      "title": "스마트해상물류",
+      "explanation": "항만 지능형 자율 운반 스마트 운반차량",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 24,
+      "title": "프로보노",
+      "explanation": "더불어돌봄(더봄)",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 23,
+      "title": "프로보노",
+      "explanation": "IoT 기술 기반의 스마트/안전 빌딩 체계(구축)",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 22,
+      "title": "프로보노",
+      "explanation": "환자 행동 패턴 기반의 낙상 위험 예측 시스템",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 21,
+      "title": "프로보노",
+      "explanation": "VR HMD를 활용한 신체 장애인용 지하철 이용방법 안내 콘텐츠 개발",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 20,
+      "title": "프로보노",
+      "explanation": "OpenCV을 이용한 지능형 스쿨존 신호등",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 19,
+      "title": "프로보노",
+      "explanation": "독거노인의 응급상황에 대한 효율적인 응급대응 프로세스 구축",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 18,
+      "title": "프로보노",
+      "explanation": "장애인/노약자의 외로움을 달래주는 실시간 스마트 윈도우",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 17,
+      "title": "프로보노",
+      "explanation": "다문화 가정을 위한 구글어시스턴트 기반 영어학습서비스개발",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 16,
+      "title": "프로보노",
+      "explanation": "노약자들을 위한 스마트 샤워 부스",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 15,
+      "title": "프로보노",
+      "explanation": "friend 글러브",
+      "purpose": "",
+      "stacks": [
+        36
+      ],
+      "year": 2019
+    }
+  },
+  {
+    "model": "filter.codequest",
+    "fields": {
+      "number": 14,
       "title": "한이음",
       "explanation": "?AR, AI를 이용한 피아노 연주 기반의 리듬게임, ARIANO-2?",
       "purpose": "피아노 악보를 처음 접하거나 익숙하지 않은 초보자 또는 아동이 피아노 악보를 보지 않고도 피아노를 연주할 수 있도록 도와주는 어플리케이션",
@@ -1856,7 +3684,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 13,
       "title": "한이음",
       "explanation": "인공지능 기반의 회의분석 서비스",
       "purpose": "회의내용을 자동적·효율적으로 의미 있는 분석 정보를 도출해줌으로써, 업무 진행을 도와주 는 인공지능 기반 의회의 분석 서비스",
@@ -1869,7 +3697,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 12,
       "title": "한이음",
       "explanation": "도커 Remote API를 이용한 컨테이너 관리 UI",
       "purpose": "Docker Remote API로 웹상에서 이용하여 Docker의 각종 리소스(Container, Image, Network, Volume, Registry 등)를 손쉽게 관리하는 UI 제작",
@@ -1882,7 +3710,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 11,
       "title": "한이음",
       "explanation": "유모차 기능을 탑재한 스마트 실버보행기",
       "purpose": "기존 실버보행기와 유모차의 수동적으로 조작하던 기능을 IoT기술을 이용하여 자동화된 서비스 형태로 제공",
@@ -1895,7 +3723,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 10,
       "title": "한이음",
       "explanation": "정량 커피 그라인더",
       "purpose": "제조사에 상관없이 항상 동일한 커피의 맛을 제공할 수 있도록 하며, 사용자가 원하는 커피가루의 양을 제공함",
@@ -1908,7 +3736,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 9,
       "title": "한이음",
       "explanation": "수상 로봇",
       "purpose": "다목적 HW플랫폼으로 모듈화를 통해 여러 가지 기능을 수행할 수 있으며 GUI를 통해 안정적인 영상획득과 자율운항, 수동조종이 가능한 수상 드론",
@@ -1921,7 +3749,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 8,
       "title": "한이음",
       "explanation": "유니티와 키넥트를 이용한 모션인식 3D 댄스게임",
       "purpose": "키넥트를 이용하여 모션인식과 모션캡처를 진행한 후 제작한 3D 캐릭터에 입혀 K-POP춤을 선보임. 사용자는 키넥트의 몸을 인식한 후 캐릭터를 따라 춤을 출 수 있음",
@@ -1935,15 +3763,15 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 7,
       "title": "한이음",
       "explanation": "얼굴 트래킹을 이용한 영상 속 등장인물 분석 및 검색 서비스",
       "purpose": "얼굴 추적을 이용한 동영상 속 등장인물 분석 및 검색을 제공하여 사용자가 원하는 동영상을 빠르고 정확하게 찾을 수 있도록 해주는 애플리케이션. 영상 시청을 하는데 편리함을 느끼도록 등장인물의 등장시간, 등장 비율 등을 제공",
       "stacks": [
         1,
         25,
-        11,
-        18
+        59,
+        3
       ],
       "year": 2018
     }
@@ -1951,7 +3779,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 6,
       "title": "한이음",
       "explanation": "SLAM 기술을 이용한 ROS기반의 화재대피 유도 자율주행 로봇",
       "purpose": "화재 발생 시 인명 피해를 최소화하기 위해 사람들을 대피로 경로까지 최단경로로 대피시키고 대피하지 못한 인원을 파악하여 구조작업을 빠르게 할 수 있도록 도와주는 SLAM 기술을 이용한 자율주행 로봇",
@@ -1964,13 +3792,13 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 5,
       "title": "한이음",
       "explanation": "AWS을 활용한 난청인을 위한 Hearing Aid(보청기)",
       "purpose": "사용자가 보청기 없이도 자신의 가청 주파수 밖에 있는 음성을 인지하고 들을 수 있도록 도와주는 애플리케이션 서비스를 제공",
       "stacks": [
         11,
-        18,
+        3,
         27
       ],
       "year": 2018
@@ -1979,7 +3807,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 4,
       "title": "한이음",
       "explanation": "시각장애인을 위한 딥 러닝(Deep-Learning) 기반 웨어러블기기",
       "purpose": "시각장애인들도 일상생활에서 앞에 있는 사물과 텍스트를 분석하고 타인의 감정을 공감할 수 있는 딥 러닝(Deep-Learning)기반의 웨어러블 기기를 제공함",
@@ -1994,7 +3822,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 3,
       "title": "한이음",
       "explanation": "?AWS IoT를 이용한 차량 제어 서비스 구현",
       "purpose": "스마트 시티와 자율주행차량을 AWS를 통해 하나의 인프라로써 연결하고, 수집한 데이터를 웹페이지를 통한 서비스로 제공하고 데이터를 제공한 공급자를 위한 보상 시스템을 구축하여 하나의 플랫폼으로 완성함",
@@ -2009,7 +3837,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 2,
       "title": "한이음",
       "explanation": "스마트 LED 자전거",
       "purpose": "IoT와 게임이 결합된 광고플렛폼으로 현대인들에게 운동을 장려하는 사물인터넷. 자전거 센서와 서버 간 통신으로 실제 자전거에 탄 사용자와 저장된 다른 사용자(화면)와의 대결을 함",
@@ -2023,7 +3851,7 @@
   {
     "model": "filter.codequest",
     "fields": {
-      "number": "",
+      "number": 1,
       "title": "스마트해상물류",
       "explanation": "가상현실 기술과 IoT 센서를 활용한 스마트 항만 크레인 운전훈련 콘텐츠 제작",
       "purpose": "Unity 3D 엔진을 이용한 가상 크레인 훈련 콘텐츠입니다. 실제 크레인이 아닌 Head Mounted Display(이하 HMD)를 통한 가상환경에서 훈련합니다.",
@@ -2031,46 +3859,6 @@
         31
       ],
       "year": 2018
-    }
-  },
-  {
-    "model": "filter.codequest",
-    "fields": {
-      "number": "",
-      "title": "이브와",
-      "explanation": "스마트 IoT 헬멧 및 스마트 안전 모니터링 시스템",
-      "purpose": "스마트 IoT 헬멧으로 작업 환경의 실시간 정보를 수집하고 이를 분석하여 작업자 및 작업장을 모니터링하는 시스템이다.",
-      "stacks": [
-        33
-      ],
-      "year": 2021
-    }
-  },
-  {
-    "model": "filter.codequest",
-    "fields": {
-      "number": "",
-      "title": "이브와",
-      "explanation": "음성인식(STT)기술 기반 엘리베이터 연동 앱(Elevator App for Blind)",
-      "purpose": "본 작품은 모든 사람들이 음성 또는 텍스트를 입력하여 간편하게 엘리베이터를 이용할 수 있도록 하는 어플이다.",
-      "stacks": [
-        33,
-        34
-      ],
-      "year": ""
-    }
-  },
-  {
-    "model": "filter.codequest",
-    "fields": {
-      "number": "",
-      "title": "프로보노",
-      "explanation": "노약자를 위한 공개용 STT API를 이용한 인공지능 보이스피싱 방지 시스템",
-      "purpose": "노약자를 위한 보이스피싱 방지 시스템으로, 음성 데이터를 분석하여 보이스피싱 여부를 판단하고, 경고하는 시스템입니다.",
-      "stacks": [
-        34
-      ],
-      "year": ""
     }
   }
 ]
