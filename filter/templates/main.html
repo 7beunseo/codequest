@@ -16,6 +16,84 @@
       crossorigin="anonymous"
     ></script>
     <style>
+      @import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
+
+      .textbody {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 45vh;
+        font-family: 'Montserrat', sans-serif;
+        background-image: url('https://img.freepik.com/premium-photo/businessman-using-tech-devices-icons-thin-line-interface_117023-904.jpg');
+        background-size: cover;
+        background-color: #4d505829;
+        background-position: center center;
+        background-blend-mode: multiply;
+        margin-bottom: 40px;
+      }
+
+      h1 {
+        color: #2550da;
+        text-shadow: 
+          0 0 5px #9dbcc8, /* 가장자리에 흐릿한 흰색 네온 효과 */
+          0 0 10px #9dbcc8, /* 강조된 흰색 네온 효과 */
+          0 0 20px #9dbcc8, /* 더 넓은 범위의 흰색 네온 효과 */
+          0 0 30px #9dbcc8; /* 가장 넓은 범위의 흰색 네온 효과 */
+        font-weight: bold; 
+      }
+
+      @keyframes letter-in {
+        0% {
+          top: 1.2em;
+        }
+        100% {
+          top: 0em;
+        }
+      }
+      @keyframes letter-out {
+        0% {
+          top: 0em;
+        }
+        100% {
+          top: -1.2em;
+        }
+      }
+
+      div.changing-title { 
+        font-size: 8vw;
+        height: 1.2em;
+        position: relative;
+        width: 100%;
+        overflow-y: hidden;
+        margin-left: 1em;
+        transform: translate3d(0,0,0);
+        -webkit-transform: translate3d(0,0,0);
+        h1 {
+          font-size: 1em;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin: 0;
+          .letter {
+            position: relative;
+            top: 1.2em;
+            &.in {
+              animation-name: letter-in;
+              animation-duration: 0.3s;
+              animation-timing-function: ease-out;
+              animation-fill-mode: forwards;
+            }
+            &.out {
+              top: 0em;
+              animation-name: letter-out;
+              animation-duration: 0.3s;
+              animation-timing-function: ease-in;
+              animation-fill-mode: forwards;
+            }
+          }
+        }
+      }
       .scrollbox {
         height: 160px;
         overflow: auto;
@@ -35,6 +113,9 @@
     </style>
   </head>
   <body>
+    <div class="textbody">
+    <div class="changing-title"><h1>CODEQUEST</h1></div>
+    </div>
     <form method="POST">
       <div class="text-center">
         <p>찾고싶은 스택을 선택해주세요.</p>
@@ -91,5 +172,59 @@
         {% endfor %}
         </div>
     {% endif %}
+
+    <script>
+      class ChangingTitle {
+        constructor(x=null) {
+          this.node = x;
+          this.letterfy(this.node.querySelector('h1'));
+        }
+        letterfy(node) {
+          let text = node.innerText;
+          node.innerText = '';
+          node.classList.add('current');
+          for (let c in text) {
+            let span = document.createElement('span');
+            span.innerText = text[c];
+            span.classList.add('letter', 'in');
+            span.style.animationDelay = `${c * 0.1}s`;
+            node.appendChild(span);
+          }
+        }
+        changeText(newText) {
+          let oldTitle = this.node.querySelector('.current');
+          let i = 0;
+          for (let letter of oldTitle.children) {
+            letter.style.animationDelay = `${i++ * 0.1}s`;
+            letter.classList.remove('in');
+            letter.classList.add('out');
+          }
+          oldTitle.classList.remove('current');
+          let newTitle = document.createElement('h1');
+          newTitle.classList.add('current');
+          for (let c in newText) {
+            let span = document.createElement('span');
+            span.innerText = newText[c];
+            span.classList.add('letter', 'in');
+            span.style.animationDelay = `${c * 0.1 + 0.5}s`;
+            newTitle.appendChild(span)
+          }
+          this.node.appendChild(newTitle);
+          setTimeout(this.removeNode(oldTitle), 2000);
+        }
+        removeNode(x) {
+          return () => {
+            x.remove();
+          }
+        }
+      };
+
+      let ct = new ChangingTitle(document.querySelector('.changing-title'));
+      const texts = ['CODEQUEST', 'Check', 'IT', 'Trend'];
+      let count = 0;
+      setInterval(()=> {
+        ct.changeText(texts[++count % texts.length]);
+      }, 2000);
+    </script>
   </body>
 </html>
