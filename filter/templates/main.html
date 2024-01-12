@@ -1,42 +1,230 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>찾고싶은 스택 선택!</H1>
-        <form method="POST">
-            {% csrf_token %}
-            {% for s in stacks %}
-            <input type="checkbox" name="stack" value="{{s.id}}">{{s.title}}<br>
-            {% endfor %}
-            <input type="submit" value="검색">
-        </form>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>코드퀘스트</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+      crossorigin="anonymous"
+    ></script>
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Montserrat:400,400i,700");
 
-        {% if selected_stacks %}
-        <p>선택한 스택들:</p>
-        {% for stack in selected_stacks %}
-            {{ stack.title }}<br>
-        {% endfor %}
-        <hr>
-    {% endif %}
-    
+      .textbody {
+        margin: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 45vh;
+        font-family: 'Montserrat', sans-serif;
+        background-image: url('https://img.freepik.com/premium-photo/businessman-using-tech-devices-icons-thin-line-interface_117023-904.jpg');
+        background-size: cover;
+        background-color: #4d505829;
+        background-position: center center;
+        background-blend-mode: multiply;
+        margin-bottom: 40px;
+      }
+
+      h1 {
+        color: #2550da;
+        text-shadow: 
+          0 0 5px #9dbcc8, /* 가장자리에 흐릿한 흰색 네온 효과 */
+          0 0 10px #9dbcc8, /* 강조된 흰색 네온 효과 */
+          0 0 20px #9dbcc8, /* 더 넓은 범위의 흰색 네온 효과 */
+          0 0 30px #9dbcc8; /* 가장 넓은 범위의 흰색 네온 효과 */
+        font-weight: bold; 
+      }
+
+      @keyframes letter-in {
+        0% {
+          top: 1.2em;
+        }
+        100% {
+          top: 0em;
+        }
+      }
+      @keyframes letter-out {
+        0% {
+          top: 0em;
+        }
+        100% {
+          top: -1.2em;
+        }
+      }
+
+      div.changing-title { 
+        font-size: 8vw;
+        height: 1.2em;
+        position: relative;
+        width: 100%;
+        overflow-y: hidden;
+        margin-left: 1em;
+        transform: translate3d(0,0,0);
+        -webkit-transform: translate3d(0,0,0);
+        h1 {
+          font-size: 1em;
+          position: absolute;
+          left: 0;
+          top: 0;
+          margin: 0;
+          .letter {
+            position: relative;
+            top: 1.2em;
+            &.in {
+              animation-name: letter-in;
+              animation-duration: 0.3s;
+              animation-timing-function: ease-out;
+              animation-fill-mode: forwards;
+            }
+            &.out {
+              top: 0em;
+              animation-name: letter-out;
+              animation-duration: 0.3s;
+              animation-timing-function: ease-in;
+              animation-fill-mode: forwards;
+            }
+          }
+        }
+      }
+      .scrollbox {
+        height: 160px;
+        overflow: auto;
+      }
+      .scrollbox::-webkit-scrollbar {
+        width: 10px;
+      }
+      .scrollbox::-webkit-scrollbar-thumb {
+        background-color: #2f3542;
+        border-radius: 10px;
+      }
+      .scrollbox::-webkit-scrollbar-track {
+        background-color: grey;
+        border-radius: 10px;
+        box-shadow: inset 0px 0px 5px white;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="textbody">
+    <div class="changing-title"><h1>CODEQUEST</h1></div>
+    </div>
+    <form method="POST">
+      <div class="text-center">
+        <p>찾고싶은 스택을 선택해주세요.</p>
+      </div>
+      <div class="container scrollbox text-center">
+        <div class="row row-cols-5">
+          {% csrf_token %} {% for s in stacks %}
+          <div class="col">
+            <div class="form-check form-switch">
+              <input
+                class="form-check-input"
+                type="checkbox"
+                role="switch"
+                id="flexSwitchCheck{{ forloop.counter }}"
+                name="stack"
+                value="{{ s.id }}"
+              />
+              <label class="form-check-label" for="flexSwitchCheck{{ forloop.counter }}">{{ s.title }}</label>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="d-grid gap-2 col-8 mx-auto" style="margin: 20px">
+        <button class="btn btn-primary" type="submit" value="검색">검색</button>
+      </div>
+    </form>
+
+    {% if selected_stacks %}
+    <div class="container text-center">
+      <h5>선택 스택</h5>
+      {% for stack in selected_stacks %}
+      <span class="badge text-bg-primary" style="font-size: large">{{ stack.title }}</span>
+      {% endfor %}
+    </div>
+    {% endif %} 
     {% if codequests.exists %}
-        <p>선택한 스택을 포함하는 프로젝트:</p>
+    <div class="container text-center" style="margin-top: 40px; margin-bottom: 40px;">
+      <div class="row row-cols-4 g-3">
         {% for c in codequests %}
-            <hr>
-            순번 - {{c.number}}<br>
-            프로젝트 이름 - {{ c.title }}<br>
-            프로젝트 설명 - {{ c.explanation }}<br>
-            프로젝트 목적 - {{ c.purpose }}<br>
-            프로젝트 사용 스택 - 
-            {% for stack in c.stacks.all %}
-                {{ stack.title }},
-            {% endfor %}<br>
-            년도 - {{ c.year }}
+        <div class="col">
+        <div class="card" style="width: 18rem; height: 100%;">
+          <div class="card-body">
+            <h5 class="card-title text-primary">{{ c.title }}</h5>
+            <h6 class="card-subtitle mb-2 text-muted">{{c.year}}</h6>
+            <p class="card-text">{{ c.explanation }}</p>
+            <p class="card-text">{{ c.purpose }}</p>
+            {% for stack in c.stacks.all %} 
+            <span class="badge text-bg-dark">{{ stack.title }}</span>
+            {% endfor %} 
+          </div>
+        </div>
+        </div>
         {% endfor %}
+        </div>
     {% endif %}
-</body>
+
+    <script>
+      class ChangingTitle {
+        constructor(x=null) {
+          this.node = x;
+          this.letterfy(this.node.querySelector('h1'));
+        }
+        letterfy(node) {
+          let text = node.innerText;
+          node.innerText = '';
+          node.classList.add('current');
+          for (let c in text) {
+            let span = document.createElement('span');
+            span.innerText = text[c];
+            span.classList.add('letter', 'in');
+            span.style.animationDelay = `${c * 0.1}s`;
+            node.appendChild(span);
+          }
+        }
+        changeText(newText) {
+          let oldTitle = this.node.querySelector('.current');
+          let i = 0;
+          for (let letter of oldTitle.children) {
+            letter.style.animationDelay = `${i++ * 0.1}s`;
+            letter.classList.remove('in');
+            letter.classList.add('out');
+          }
+          oldTitle.classList.remove('current');
+          let newTitle = document.createElement('h1');
+          newTitle.classList.add('current');
+          for (let c in newText) {
+            let span = document.createElement('span');
+            span.innerText = newText[c];
+            span.classList.add('letter', 'in');
+            span.style.animationDelay = `${c * 0.1 + 0.5}s`;
+            newTitle.appendChild(span)
+          }
+          this.node.appendChild(newTitle);
+          setTimeout(this.removeNode(oldTitle), 2000);
+        }
+        removeNode(x) {
+          return () => {
+            x.remove();
+          }
+        }
+      };
+
+      let ct = new ChangingTitle(document.querySelector('.changing-title'));
+      const texts = ['CODEQUEST', 'Check', 'IT', 'Trend'];
+      let count = 0;
+      setInterval(()=> {
+        ct.changeText(texts[++count % texts.length]);
+      }, 2000);
+    </script>
+  </body>
 </html>
